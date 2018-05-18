@@ -28,6 +28,7 @@ module.exports = function(application){
                     else return false;
                 }
                 let ctrl = this;
+                let changed = 0;
                 ctrl.element = $scope.item;
                 if (!ctrl.element.hasOwnProperty('video') || !ctrl.element.video){
                     ctrl.element.video = {
@@ -47,7 +48,10 @@ module.exports = function(application){
                 $scope.$watch(function(){
                     return ctrl.element.video.src;
                 },function(newV,oldV){
-                    if ($scope.componentSpecifics.url.$valid) {
+                    if (!changed){
+                        changed++;
+                    }
+                    else if ($scope.componentSpecifics.url.$valid) {
                       let res = isitYoutube(newV);
                       if (res) {
                         ctrl.element.video.src = `https://www.youtube.com/embed/${res}`;

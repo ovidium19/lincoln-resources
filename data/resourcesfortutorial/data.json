@@ -12,6 +12,13 @@
                         "space_after": false,
                         "components": [
                             {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/r_akrqep-os",
+                                    "thumb": "/images/admin-intro.jpg"
+                                }
+                            },
+                            {
                                 "type": "text-paragraph",
                                 "links": [
                                     {
@@ -47,7 +54,7 @@
                     },
                     {
                         "subtitle": "Learning Outcomes",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "list-text",
@@ -66,6 +73,27 @@
                                         "text": "In this chapter, we will simply create a Heroku and a Github account. These tools will be needed in order to download the website to your Github account and upload it to Heroku, which is a cloud server that will make your website available for other users to see for FREE!"
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "portion": "youtube playlist",
+                                        "href": "https://www.youtube.com/playlist?list=PLW-uk2ykHn9c16cxnwnX-c6lDEmQ-b47K"
+                                    }
+                                ],
+                                "text": "You can find all the videos related to this tutorial at the following youtube playlist link."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "I highly recommend you go  over the tutorial in this page step by step, as there will be video explanations for each step where appropriate. You will get a deeper understanding by reading the guide and viewing examples as well."
                             }
                         ]
                     }
@@ -109,7 +137,7 @@
                     },
                     {
                         "subtitle": "Heroku",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
@@ -144,6 +172,29 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "The name you choose will be the name of you website. For example, if you choose test-server-2018, then the name of your website will be https://test-server-2018.herokuapp.com"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/tGzF_N-ndL4",
+                                    "thumb": "https://img.youtube.com/vi/tGzF_N-ndL4/maxresdefault.jpg"
+                                },
+                                "subtitle": "Creating Accounts",
+                                "space_after": true
+                            },
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/TrOQtCo6IEE",
+                                    "thumb": "https://img.youtube.com/vi/TrOQtCo6IEE/maxresdefault.jpg"
+                                },
+                                "subtitle": "Creating a Heroku App"
                             }
                         ]
                     }
@@ -231,7 +282,16 @@
                                     }
                                 ],
                                 "text": "This website is available in the format of a github repository. You can find it here. In order to continue at this point, you need to get a copy of this repository into your own github account. In order to do that, there is a process in github called forking a repository.",
-                                "space_after": true
+                                "space_after": false
+                            },
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/yLEbhLgszx4",
+                                    "thumb": "https://img.youtube.com/vi/yLEbhLgszx4/maxresdefault.jpg"
+                                },
+                                "space_after": true,
+                                "subtitle": "What is a repository?"
                             },
                             {
                                 "type": "text-paragraph",
@@ -242,6 +302,14 @@
                                     }
                                 ],
                                 "text": "In order to complete this step, you need to fork a copy of the website template page into your own github account. Simply go to this repository and click the 'Fork' button on the top-right side. This process will take several seconds, and then you will end up with a repository in your github account that has the name 'ifs-template-website'."
+                            },
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/j4R2kTBkZ50",
+                                    "thumb": "https://img.youtube.com/vi/j4R2kTBkZ50/maxresdefault.jpg"
+                                },
+                                "subtitle": "Forking a repository"
                             }
                         ]
                     }
@@ -296,7 +364,7 @@
                                     },
                                     {
                                         "links": [],
-                                        "text": "Below that, there is a form with the title 'Search for a repository to connect to'. Start typing the name of your repository, which should be 'ifs-template-website' if you haven't changed the name."
+                                        "text": "Below that, there is a form with the title 'Search for a repository to connect to'. Start typing the name of your repository, which should be <span class='bg-info text-white px-1'>ifs-coventry-webapp-template</span> if you haven't changed the name."
                                     }
                                 ]
                             },
@@ -320,6 +388,20 @@
                                         "text": "After you click the button, the repository is copied on the heroku server. This takes some time, but you are provided feedback in the logs below. Once this process is done, another button will pop up , the 'View' button. Clicking this will take you to your new website."
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/1i4HdwmbRQ0",
+                                    "thumb": "https://img.youtube.com/vi/1i4HdwmbRQ0/maxresdefault.jpg"
+                                },
+                                "subtitle": "Deploying your website"
                             }
                         ]
                     }
@@ -475,6 +557,20 @@
                                 "text": "You have now set up some authentication for your website.\nTry to access the admin page now and if everything is all right, you should be prompted to enter these variables. \nYou now have a secure admin page!"
                             }
                         ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/sdW4gDJKv_s",
+                                    "thumb": "/images/admin-local-auth.jpg"
+                                },
+                                "subtitle": "Local Authentication"
+                            }
+                        ]
                     }
                 ]
             },
@@ -607,7 +703,16 @@
                             },
                             {
                                 "type": "image-single",
-                                "src": "images/components.jpg"
+                                "src": "images/components.jpg",
+                                "space_after": true
+                            },
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/DIxYidm76Ps",
+                                    "thumb": "/images/admin-terminology.jpg"
+                                },
+                                "subtitle": "Terminology"
                             }
                         ]
                     },
@@ -804,6 +909,20 @@
                                 "text": "All of these actions are reversible from the Undo Stack"
                             }
                         ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/4O1DRav-Nak",
+                                    "thumb": "https://img.youtube.com/vi/4O1DRav-Nak/maxresdefault.jpg"
+                                },
+                                "subtitle": "Adding Elements"
+                            }
+                        ]
                     }
                 ]
             },
@@ -884,6 +1003,20 @@
                                 "text": "The last tab is custom, based on what type you selected for the component. It is usually named <span class='text-white font-weight-bold bg-info p-1'>{{Type}} Options</span>. Here you can edit all the various properties of a specific component type. You can find more information on component types and their properties at this link."
                             }
                         ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/pZbXjJ-p-FA",
+                                    "thumb": "/images/admin-editing-elements.jpg"
+                                },
+                                "subtitle": "Editing Elements"
+                            }
+                        ]
                     }
                 ]
             },
@@ -893,7 +1026,7 @@
                 "sections": [
                     {
                         "subtitle": "The Undo Stack",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
@@ -914,6 +1047,19 @@
                             {
                                 "type": "text-alert",
                                 "text": "When you click UNDO, you are reverting back the document to how it was before that change. That means that if you UNDO the 6th element in the stack, you will also lose the changes made in the 5 elements above. Think of this as hitting CTRL + Z on a windows machine. It reverts your previous change, but in order to revert back to the 6th previous change you made, you have to undo the 5 before as well."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/l50QxEnPnvQ",
+                                    "thumb": "/images/admin-undo-stack.jpg"
+                                }
                             }
                         ]
                     }
@@ -952,6 +1098,19 @@
                                         "text": "Learn how and when you should re-upload your github repository to your heroku app."
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Saving your data (Video)",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/CmV5i8txXDg",
+                                    "thumb": "/images/admin-saving-data.jpg"
+                                }
                             }
                         ]
                     }
@@ -994,6 +1153,20 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "In the next chapter, we will talk about how to you use github to store your data and all the history of your different versions of data and how to upload a new version of data to your cloud website."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/arpaPilQu5U",
+                                    "thumb": "https://img.youtube.com/vi/arpaPilQu5U/maxresdefault.jpg"
+                                },
+                                "subtitle": "Downloading data"
                             }
                         ]
                     }
@@ -1121,6 +1294,20 @@
                                     }
                                 ],
                                 "text": "If you make any changes to the <code>data</code> folder locally and you want them to show up in the heroku website, you will have to re-upload your website to heroku. To do that, simply follow the steps in the <span style='font-size: 1.2rem'>Using heroku</span> section, after you have saved your changes to your github repository."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/JwmyuAlFDPs",
+                                    "thumb": "/images/admin-uploading-data.jpg"
+                                },
+                                "subtitle": "Uploading Data"
                             }
                         ]
                     }
@@ -1281,7 +1468,7 @@
                     },
                     {
                         "subtitle": "HTML",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
@@ -1296,6 +1483,20 @@
                                     }
                                 ],
                                 "text": "Paragraphs support HTML code. The website comes equipped with Bootstrap 4 and Font Awesome 4. You can use their documentation to find out how to insert icons and how to edit the display of text. You can include awesome icons like this <span class='fa fa-check text-success' style='font-size:1.2rem'></span> check mark."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/yUD0VkItNAE",
+                                    "thumb": "https://img.youtube.com/vi/yUD0VkItNAE/maxresdefault.jpg"
+                                },
+                                "subtitle": "Paragraph Component"
                             }
                         ]
                     }
@@ -1348,7 +1549,7 @@
                     },
                     {
                         "subtitle": "The List Form",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
@@ -1359,6 +1560,20 @@
                                 "type": "image-single",
                                 "src": "images/list_withparagraphs.jpg",
                                 "subtitle": "A list with 3 elements"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/lWfBok_l3BY",
+                                    "thumb": "/images/admin-list-comp.jpg"
+                                },
+                                "subtitle": "List Component"
                             }
                         ]
                     }
@@ -1400,12 +1615,26 @@
                     },
                     {
                         "subtitle": "The Link Form",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "This is a simple form. It comes with a <span class='bg-info text-white p-1'> Add Link </span> button. Each link has an entry for the text to be displayed and an entry for the actual URL. The order of the links affects the order they are displayed in and you can change that order by using the corresponding <div class='d-inline text-white' style='opacity:0.7'><span class='fa fa-arrow-up bg-info p-1'></span><span class='fa fa-arrow-down bg-info p-1'></span></div> buttons."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/4gPWzVi-aZ4",
+                                    "thumb": "/images/admin-link-comp.jpg"
+                                },
+                                "subtitle": "Link Component"
                             }
                         ]
                     }
@@ -1438,17 +1667,31 @@
                     },
                     {
                         "subtitle": "The Image Form",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "There are several things to think about when uploading a single image. First of all, the size in memory of the image. The form will not allow you to upload an image that is more than <span class='text-white bg-danger px-1' style='font-size:1.3rem'>80kb</span> in size. Images have to be loaded by the browser when the page containing it is accessed. Images take a long time to load if they are too big, this restriction is here to make sure that the website still performs correctly even when it contains many images."
+                                "text": "There are several things to think about when uploading a single image. First of all, the size in memory of the image. The form will not allow you to upload an image that is more than <span class='text-white bg-danger px-1' style='font-size:1.3rem'>280kb</span> in size. Images have to be loaded by the browser when the page containing it is accessed. Images take a long time to load if they are too big, this restriction is here to make sure that the website still performs correctly even when it contains many images."
                             },
                             {
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "Another thing to think about is image width and height. The website does not enforce any width or height on your image, which means that you can include any type of image. It is important to think about how your image scales with screen size. I recommend for your images to have less then 600px width, more than that will make the image overflow from the edges of the containing document."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/-C7QWmNdZcs",
+                                    "thumb": "/images/admin-image-comp.jpg"
+                                },
+                                "subtitle": "Image Component"
                             }
                         ]
                     }
@@ -1512,7 +1755,7 @@
                     },
                     {
                         "subtitle": "Getting a file name warning",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "image-single",
@@ -1522,6 +1765,20 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "This warning lets you know that a file with this name already exists on the server. This warning only happens when you try to upload a file. It shouldn't be an issue if you are reusing a file. You should be careful when trying to upload a file that has different content than the one with the same name on the server. The new file will replace the old file, and the old file will no longer be available."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/Sg8PGN6LUl4",
+                                    "thumb": "https://img.youtube.com/vi/Sg8PGN6LUl4/maxresdefault.jpg"
+                                },
+                                "subtitle": "Document Component"
                             }
                         ]
                     }
@@ -1579,7 +1836,7 @@
                     },
                     {
                         "subtitle": "Video Carousel",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
@@ -1605,6 +1862,20 @@
                                         }
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/bAJya9gVIgs",
+                                    "thumb": "/images/admin-video-comp.jpg"
+                                },
+                                "subtitle": "Video Component"
                             }
                         ]
                     }
@@ -1864,7 +2135,7 @@
                     },
                     {
                         "subtitle": "The Question Form",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
@@ -1905,6 +2176,20 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "In the <span class='bg-info text-white px-1'>Explanation</span> tab, you can enter a paragraph that will show up as a tip for the question when the results are displayed. This paragraph supports links and HTML."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/FW6nPY1sEXA",
+                                    "thumb": "/images/admin-quiz-comp.jpg"
+                                },
+                                "subtitle": "Quiz Component"
                             }
                         ]
                     }
@@ -2000,7 +2285,7 @@
                     },
                     {
                         "subtitle": "Profile Component",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
@@ -2018,6 +2303,20 @@
                                 "title": "Web Developer",
                                 "url": "www.linkedin.com/in/ovidiu-mitroi",
                                 "link": "blob:http://localhost:8000/61ee87ea-31f9-4c79-8602-6b2ed0f08289"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/FZCBjPuifZk",
+                                    "thumb": "/images/admin-other-comp.jpg"
+                                },
+                                "subtitle": "Other Components"
                             }
                         ]
                     }
@@ -2049,7 +2348,7 @@
                     },
                     {
                         "subtitle": "Learning Outcomes",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "list-text",
@@ -2063,6 +2362,20 @@
                                         "text": "Learn how to change the background images and other various elements of the front page."
                                     }
                                 ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Main Page Video Introduction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/IUYW4WI3FKA",
+                                    "thumb": "https://img.youtube.com/vi/IUYW4WI3FKA/maxresdefault.jpg"
+                                },
+                                "subtitle": "Intro Main Page"
                             }
                         ]
                     }
@@ -2199,7 +2512,7 @@
                     },
                     {
                         "subtitle": "Backgrounds",
-                        "space_after": false,
+                        "space_after": true,
                         "components": [
                             {
                                 "type": "text-paragraph",
@@ -2210,6 +2523,20 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "You can have the same image in both backgrounds. You will have to upload the same file in both sections."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Video Tutorial",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "video-single",
+                                "video": {
+                                    "src": "https://www.youtube.com/embed/L1mP5r2fKjY",
+                                    "thumb": "https://img.youtube.com/vi/L1mP5r2fKjY/maxresdefault.jpg"
+                                },
+                                "subtitle": "Main Page Editing"
                             }
                         ]
                     }
