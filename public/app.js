@@ -46,6 +46,17 @@ var application = angular.module("MyApp",["ngRoute","ngResource","ngAnimate","du
     .run(function($anchorScroll){
         "use strict";
         $anchorScroll.yOffset = 90;
+    })
+    .run(function($rootScope) {
+        $rootScope.$on("$routeChangeSuccess", function (e, curr, old) {
+            console.log(curr);
+            if (curr.params.group) {
+                $rootScope.title = " - " + curr.params.group[0].toUpperCase() + curr.params.group.slice(1);
+            }
+            else {
+                $rootScope.title = "";
+            }
+        });
     });
 application.config(["$routeProvider","$locationProvider","$compileProvider",
     function ($routeProvider,$locationProvider,$compileProvider) {
