@@ -1,11 +1,7 @@
 [
     {
         "mainVideo": {
-            "type": "video-single",
-            "video": {
-                "src": "https://www.youtube.com/embed/QTpNqgNIV3o",
-                "thumb": "https://img.youtube.com/vi/QTpNqgNIV3o/maxresdefault.jpg"
-            }
+            "type": "video-single"
         },
         "quotes": [
             {
@@ -27,7 +23,7 @@
             }
         ],
         "mainParagraph": {
-            "text": "The message here will be displayed on your front page. Edit this from the Admin Interface -> Main Page Content section."
+            "text": "This resource was created by Ben Walker and Alison Wilkinson (University of Lincoln)\nas part of one of the ‘Addressing barriers to student success’ HEFCE Catalyst projects.\n\nThe structure and content of this resource has been adapted from:\n\nStork A. and Walker B. (2015) Becoming an Outstanding Personal Tutor: Supporting\nLearners Through Personal Tutoring and Coaching.  Northwich: Critical Publishing."
         },
         "contact": {
             "subtitle": "Contact Team for Help",
@@ -37,8 +33,12 @@
                     "type": "link-telephone",
                     "phones": [
                         {
-                            "tag": "Example Phone Number",
-                            "text": "07xx xxxx xxxxx"
+                            "tag": "Ben Walker",
+                            "text": "01522 837195"
+                        },
+                        {
+                            "tag": "Alison Wilkinson",
+                            "text": "01522 835625"
                         }
                     ],
                     "space_after": false
@@ -48,9 +48,14 @@
                     "type": "link-email",
                     "links": [
                         {
-                            "tag": "Ovidiu Mitroi",
-                            "text": "ac7228@coventry.ac.uk",
-                            "link": "mailto:ac7228@coventry.ac.uk"
+                            "tag": "Ben Walker",
+                            "text": "bewalker@lincoln.ac.uk",
+                            "link": "mailto:bewalker@lincoln.ac.uk"
+                        },
+                        {
+                            "text": "alwilkinson@lincoln.ac.uk",
+                            "tag": "Alison Wilkinson",
+                            "link": "mailto:alwilkinson@lincoln.ac.uk"
                         }
                     ],
                     "space_after": false
@@ -85,10 +90,10 @@
             }
         ],
         "background_up": {
-            "src": "../images/COV-HLS-3307.jpg"
+            "src": "../images/LNC-bg1.jpg"
         },
         "background_down": {
-            "src": "../images/COV-HLS-3315.jpg"
+            "src": "../images/LNC-bg2.jpg"
         }
     }
 ]

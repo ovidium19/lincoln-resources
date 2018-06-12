@@ -8,10 +8,8 @@ module.exports = function(application){
                  console.log("preloading images");
                  var students = new Image();
                  var educators = new Image();
-                 var staff = new Image();
                  students.src = "/assets/css/images/StudentsOver.png";
                  educators.src = "/assets/css/images/EducatorsOver.png";
-                 staff.src = "/assets/css/images/StaffOver.png";
                  //----------------------------------------
                 $scope.selectGroup = function(group){
                     $location.url("/content/"+group+"/");
