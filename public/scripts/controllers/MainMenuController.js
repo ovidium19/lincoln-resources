@@ -9,7 +9,7 @@ module.exports = function(application){
                  var students = new Image();
                  var educators = new Image();
                  students.src = "/assets/css/images/StudentsOver.png";
-                 educators.src = "/assets/css/images/EducatorsOver.png";
+                 educators.src = "/assets/css/images/TutorsOver.png";
                  //----------------------------------------
                 $scope.selectGroup = function(group){
                     $location.url("/content/"+group+"/");
