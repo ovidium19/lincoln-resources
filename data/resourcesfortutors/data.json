@@ -1,18 +1,18 @@
 [
     {
-        "name": "Template 1",
+        "name": "Role of a Personal Tutor",
         "chapters": [
             {
                 "name": "Introduction",
                 "sections": [
                     {
                         "subtitle": "Introduction",
-                        "space_after": true,
+                        "space_after": false,
                         "components": [
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Simple paragraph component to explain the purpose of this block."
+                                "text": "In this chapter, we will examine all the various responsibilities of a personal tutor and try to define the overall role in relation to the students."
                             }
                         ]
                     },
@@ -25,19 +25,19 @@
                                 "list_elements": [
                                     {
                                         "links": [],
-                                        "text": "List component for presenting the learning outcomes for this block"
+                                        "text": "Recognise the importance of the personal tutor\nrole for student experience, retention and\nsuccess."
                                     },
                                     {
                                         "links": [],
-                                        "text": "in"
+                                        "text": "Explore the natural overlap between effective\nteaching and effective personal tutor practice."
                                     },
                                     {
                                         "links": [],
-                                        "text": "list"
+                                        "text": "Define the personal tutor."
                                     },
                                     {
                                         "links": [],
-                                        "text": "form"
+                                        "text": "Explore the useful relationship between personal\ntutoring and coaching."
                                     }
                                 ]
                             }
@@ -46,12 +46,595 @@
                 ]
             },
             {
-                "name": "Chapter 1",
-                "sections": []
+                "name": "What is the personal tutor role",
+                "sections": [
+                    {
+                        "subtitle": "Why is the personal tutor important?",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "subtitle": "Increased interest in personal tutoring",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Expansion of the HE sector, coupled with widening\naccess <span class='fa fa-exchange text-info mx-3'></span> <span class='bg-success text-white p-1' style=\"font-size:1.1rem;font-weight:500\">more students and more diversity</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Increased competition in the sector <span class='fa fa-exchange text-info mx-3'></span>  concern\nabout league tables (influenced by retention)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Differential outcomes for under-represented\ngroups"
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "href": "https://en.wikipedia.org/wiki/Teaching_Excellence_Framework",
+                                                "portion": "Teaching Excellence Framework"
+                                            }
+                                        ],
+                                        "text": "And now the TEF Teaching Excellence Framework"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style=\"font-size: 0.9rem;font-style: italic;margin-top:-17px\">Adapted from Thomas, 2017b</span>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "What does research say?",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "It is the human side of education which comes first – finding friends, feeling confident and above all, feeling a part of your course of study and the institution – that is the necessary starting point for student success"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "At the heart of student retention and success is a strong sense of belonging"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The academic sphere is the most important site for nurturing engagement which creates a sense of belonging.  This puts inclusive teaching and learning at the heart of effective student retention and success"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style=\"font-size: 1.1rem;font-style: italic;margin-top:-17px;font-weight:bold\">What Works? (Phase 1, 2012)</span><i class=\"fa fa-arrow-up ml-2\" aria-hidden=\"true\"></i>",
+                                "space_after": true
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Engagement is a critical factor in differential outcomes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not all students have the social or cultural capital needed to engage readily or ask for support"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style=\"font-size: 1.1rem;font-style: italic;margin-top:-17px;font-weight:bold\">Causes of Differences in Student Outcomes (HEFCE,\n2015)</span><i class=\"fa fa-arrow-up ml-2\" aria-hidden=\"true\"></i>",
+                                "space_after": false
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Improving Student Retention",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Enabling a student to develop a relationship with an academic member of staff in their discipline or programme area, and feeling more ‘connected’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Providing students with reassurance, guidance and feedback about their academic studies in particular, and working in partnership with professional services"
+                                    }
+                                ],
+                                "subtitle": "Tutors can improve student retention and success in the following ways:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Academic tutoring is able to contribute to student belonging in many ways but must:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "be embedded in to the curriculum"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "be proactive (ie not optional)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "have an holistic approach"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "be made relevant to students and valued by staff"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "be collaborative and develop relationships"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "monitor participation and follow up non-participation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style=\"font-size: 1.1rem;font-style: italic;margin-top:-17px;font-weight:bold\">Further evidence from What Works? Phases 1 and 2\n(2012; 2017)</span><i class=\"fa fa-arrow-up ml-2\" aria-hidden=\"true\"></i>"
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "name": "Chapter 2",
-                "sections": []
+                "name": "A model for personal tutoring",
+                "sections": [
+                    {
+                        "subtitle": "The model",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/storkandwalkermodel.jpg",
+                                "subtitle": "Stork and Walker (2015)"
+                            },
+                            {
+                                "type": "thought-bubble",
+                                "text": "What do you think would happen if we\ntook the personal tutoring role out of\nthis relationship (as shown in this\nfigure)?"
+                            },
+                            {
+                                "type": "image-single",
+                                "subtitle": "Stork and Walker modified",
+                                "src": "/images/storkandwalkermodelnotutor.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style='font-weight:bold'>Replacement text, might need a new component for a questionnaire form</span>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "A definition of the personal tutor",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-quote",
+                                "text": "The personal tutor is one who improves the\nintellectual and academic ability, and nurtures the\nemotional well-being, of learners through\nindividualised, holistic support.",
+                                "year": "2015",
+                                "author": "Stork and Walker"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Other useful ways to understand the role",
+                "sections": [
+                    {
+                        "subtitle": "Alternative models",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "subtitle": "Some ways in which mentors give support, Gravells and Wallace (2007) from Clutterbuck (1985)",
+                                "src": "/images/tutormodeldirective.jpg",
+                                "space_after": true
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/alternativemodel2.jpg",
+                                "subtitle": "Four basic styles of helping, Gravells and Wallace (2007) from Klasen & Clutterbuck (2002)"
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Take a further look at Klasen and Clutterbuck’s model:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='bg-success text-white p-1 mr-3'>Objective 1:</span>\nPick the two styles you feel you carry out the most\nin your current position and note down specific\nexamples of when you have had to, or might have\nto, exhibit these styles of helping."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='bg-success text-white p-1 mr-3'>Objective 2:</span>\nUsing the examples you provided for question\none, list the qualities and attributes you:\n<ul>\n<li class=\"learning-outcome\">\nfeel you displayed well which benefited the\nstudent and situation;\n</li>\n<li class=\"learning-outcome\">\nfeel you did less well and you feel you\nwould like more opportunity to develop\n</li>\n</ul>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style='font-weight:bold'>Replacement text, might need a new component for a questionnaire form</span>"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "The relationship between personal tutoring and coaching",
+                "sections": [
+                    {
+                        "subtitle": "The relationship between personal tutoring and coaching",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/reltutorcoaching.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Case Study",
+                "sections": [
+                    {
+                        "subtitle": "Sarah's Story",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style='font-weight:500;font-style:italic;font-size:1.1em' class='mb-3'>Sarah is a lecturer in the first year of her new post.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Week 1",
+                                "text": "<span style='font-weight:500;font-style:italic;font-size:1.1em' class='mb-3'>\nSarah has been given the job of meeting a group of students in a tutorial session. She has been tasked with CV reviewing and researching empoyers, as well as developing their employability skills. She must work with each student individually and also set new SMART (Specific, Measurable, Achievable, Realistic and Time-related) targets regularly. Her head of department has asked her if she could track and monitor the students' progress throughout and feedback on their progress to the rest of the teaching team during the weekly departmental meeting. Sarah has found that she has been contacting students on the phone a lot when some students have been late, absent and not meeting deadlines. She has found this work challenging, but rewarding.\n</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Week 2",
+                                "text": "<span style='font-weight:500;font-style:italic;font-size:1.1em' class='mb-3'>\nIn her second week, while delivering a class where the students are working in groups to develop presentations, Sarah finds that she has time to work with students individually to discuss their learning and progress. Paul, a student in the class, confides in her that he is finding that he cannot keep up with all the expectations of the course and that he feels anxious. Sarah allows Paul to express his concerns and questions him to find out whether he is actually behind with his course and what reasons he believes there are for this. As the conversation develops, it becomes clear to Sarah that Paul isn't actually too far behind with his work but that his recent unexpected poor exam results has knocked his confidence down. Sarah steers the conversation more towards Paul's strengths and enbales him to explore the potential actions he could take to regain his confidence and get 'back on track'. They agree some small steps for Paul to take and decide to review the outcome of Paul's actions in the class next week.\n</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style='font-weight:500;font-style:italic;font-size:1.1em' class='mb-3'>\nDuring her third week, Sarah has arranged to meet students regularly for one to ones. She explores with each student how they are feeling and encourages them to discuss what issues they are facing both within and outside of the college. Sarah asks questions and challenges students to think about and express their issues a bit more deeply than they might normally, whilst providing encouragement and guidance if needed. Her main aim is to give the students a change to look at themselves more closely, to explore new ideas and help build their confidence. She encourages the student to take the initiative and any actions resulting from the meeting that contribute to their learning and progress remains their responsibility. She helps them to think about potential outcomes of the actions in more detail and how long they think it would take for them to show progress. Sarah has found working with her students one to one is rewarding and a welcome change from regular class delivery. She has discovered that the students tend to behave differently than when in a normal classroom or corridor environment and that she is looking forward to this aspect of her role.\n</span>",
+                                "subtitle": "Week 3"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reflect",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "thought-bubble",
+                                "text": "Having read through this case study of weekly interactions between personal tutor Sarah and students and, drawing on your own knowledge and experience, decide which aspect of the role they are describing, personal tutoring or coaching and state why."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Possible new component for questionnaire form."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "What we have learned",
+                "sections": [
+                    {
+                        "subtitle": "What we have learned",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span style='font-weight: 600;font-size: 1.1rem'>\nThe principles of being an effective personal tutor are very similar, if not the same in most instances, as being an effective teacher.\n</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span style='font-weight: 600;font-size: 1.1rem'>\nWhat ‘success’ ultimately looks like for each student is very different because they all come from different backgrounds, have varying levels of skills and abilities and each face different challenges throughout their learning both within and outside the institution.\n</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span style='font-weight: 600;font-size: 1.1rem'>\nAs teachers, we are increasingly expected to offer more to students’ overall success than just teaching good sessions.\n</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span style='font-weight: 600;font-size: 1.1rem'>\nThere is a natural overlap between personal tutoring and coaching.\n</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span style='font-weight: 600;font-size: 1.1rem'>\nFour main approaches to helping a student can be identified: being directive or non-directive, focusing on their intellectual or emotional need.\n</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Development",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Reflection questions"
+                            },
+                            {
+                                "type": "thought-bubble",
+                                "text": "To what extent do you believe your PGCert course / institution have\nfocused on improving your personal tutoring practice?"
+                            },
+                            {
+                                "type": "thought-bubble",
+                                "text": "From your experience, compare and contrast the benefits and importance of ‘traditional’ lecturing and personal tutoring."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style='font-weight: 600;font-size: 1.1rem'>\nDiscuss what impact you feel a significant improvement in personal tutoring practice could have on:\n</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "a student’s progress;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "a department’s performance;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "an educational institution’s performance."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "References",
+                "sections": [
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "link": "https://books.google.co.uk/books?id=CCQnDAAAQBAJ&pg=PT33&lpg=PT33&dq=Clutterbuck,+D.+(1985)+cited+in+Wallace,+S.+and+Gravells,+J.+(2007)+Mentoring+(2nd+edition).+Exeter:+Learning+Matters.&source=bl&ots=TgRvEuCVuc&sig=Q7eX0PienaF93JnweqnW0oVNpzc&hl=en&sa=X&ved=0ahUKEwjblMWCzt_bAhUSnRQKHWguBbUQ6AEIKTAA#v=onepage&q=Clutterbuck%2C%20D.%20(1985)%20cited%20in%20Wallace%2C%20S.%20and%20Gravells%2C%20J.%20(2007)%20Mentoring%20(2nd%20edition).%20Exeter%3A%20Learning%20Matters.&f=false",
+                                "title": "Clutterbuck, D. (1985) cited in Mentoring (2nd edition)",
+                                "year": "2007",
+                                "authors": [
+                                    {
+                                        "name": "Wallace, S."
+                                    },
+                                    {
+                                        "name": "Gravells, J."
+                                    }
+                                ],
+                                "publisher": "Exeter: Learning Matters."
+                            },
+                            {
+                                "type": "link-reference",
+                                "link": "http://www.worldcat.org/title/empathic-communicator/oclc/7671885",
+                                "title": "The Empathic Communicator",
+                                "year": "1982",
+                                "publisher": "University of Minnesota: Wadsworth     Publishing Company.",
+                                "authors": [
+                                    {
+                                        "name": "Howell, W. S."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "link": "https://books.google.co.uk/books?id=CCQnDAAAQBAJ&pg=PT33&lpg=PT33&dq=Clutterbuck,+D.+(1985)+cited+in+Wallace,+S.+and+Gravells,+J.+(2007)+Mentoring+(2nd+edition).+Exeter:+Learning+Matters.&source=bl&ots=TgRvEuCVuc&sig=Q7eX0PienaF93JnweqnW0oVNpzc&hl=en&sa=X&ved=0ahUKEwjblMWCzt_bAhUSnRQKHWguBbUQ6AEIKTAA#v=onepage&q=Clutterbuck%2C%20D.%20(1985)%20cited%20in%20Wallace%2C%20S.%20and%20Gravells%2C%20J.%20(2007)%20Mentoring%20(2nd%20edition).%20Exeter%3A%20Learning%20Matters.&f=false",
+                                "title": "Klasen, N. and Clutterbuck, D. (2002) cited in Mentoring (2nd edition)",
+                                "publisher": "Exeter: Learning Matters.",
+                                "authors": [
+                                    {
+                                        "name": "Wallace, S."
+                                    },
+                                    {
+                                        "name": "Gravells, J."
+                                    }
+                                ],
+                                "year": "2007"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Causes of Differences in Student Outcomes",
+                                "link": "http://www.hefce.ac.uk/pubs/rereports/year/2015/diffout/",
+                                "year": "2015",
+                                "publisher": "HEFCE",
+                                "authors": [
+                                    {
+                                        "name": "Mountford-Zimdars. A."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Becoming an Outstanding Personal Tutor: Supporting Learners Through Personal Tutoring and Coaching.",
+                                "link": "https://books.google.co.uk/books?id=CCQnDAAAQBAJ&pg=PT33&lpg=PT33&dq=Stork,+A.+and+Walker,+B.+(2015)+Becoming+an+Outstanding+Personal+Tutor:+Supporting+Learners+Through+Personal+Tutoring+and+Coaching.+Northwich:+Critical+Publishing.&source=bl&ots=TgRvEuC-w9&sig=nmIN67snTKN5StWu90QHDwlp9ko&hl=en&sa=X&ved=0ahUKEwiMouGo0N_bAhUFVBQKHVtBB0QQ6AEINDAC#v=onepage&q=Stork%2C%20A.%20and%20Walker%2C%20B.%20(2015)%20Becoming%20an%20Outstanding%20Personal%20Tutor%3A%20Supporting%20Learners%20Through%20Personal%20Tutoring%20and%20Coaching.%20Northwich%3A%20Critical%20Publishing.&f=false",
+                                "publisher": "Northwich: Critical Publishing.",
+                                "year": "2015",
+                                "authors": [
+                                    {
+                                        "name": "Stork, A. "
+                                    },
+                                    {
+                                        "name": "Walker, B."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "What Works? Student Retention and Success. Building Student Engagement and Belonging in Higher Education at a Time of Change",
+                                "link": "https://www.heacademy.ac.uk/system/files/what_works_final_report.pdf",
+                                "publisher": "HEA",
+                                "year": "2012",
+                                "authors": [
+                                    {
+                                        "name": "Thomas, L."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "What Works2? Student Retention and Success. Supporting Student Success: Strategies for Institutional Change",
+                                "link": "https://www.heacademy.ac.uk/system/files/hub/download/ what_works_2_-_full_report.pdf",
+                                "year": "2017",
+                                "authors": [
+                                    {
+                                        "name": "Thomas, L."
+                                    }
+                                ],
+                                "publisher": "HEA"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Using Tutoring to Advance Success To Improve Student Success.",
+                                "year": "2017",
+                                "publisher": "Keynote Presentation Slides to UKAT conference, 5 April 2017.",
+                                "authors": [
+                                    {
+                                        "name": "Thomas, L."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Further Reading",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Whose Learning? The Role of the Personal Tutor.",
+                                "publisher": "Berkshire: Open University Press.",
+                                "year": "2004",
+                                "authors": [
+                                    {
+                                        "name": "Bullock, K."
+                                    },
+                                    {
+                                        "name": " Wikely, F."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "link": "https://www.macmillanihe.com/page/detail/The-Personal-Tutors-Handbook/?K=9780230507890",
+                                "title": "The Personal Tutor’s Handbook",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "year": "2007",
+                                "authors": [
+                                    {
+                                        "name": "Neville, N."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "link": "https://www.bookdepository.com/Z-Guide-Working-Further-Education-Susan-Wallace/9781909330856",
+                                "title": "The A-Z Guide to Working in Further Education",
+                                "publisher": "Northwich: Critical Publishing",
+                                "year": "2013",
+                                "pages": "27-31",
+                                "authors": [
+                                    {
+                                        "name": "Wallace, S."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Mentoring (2nd edition)",
+                                "pages": "10-11",
+                                "year": "2007",
+                                "publisher": "Exeter: Learning Matters",
+                                "authors": [
+                                    {
+                                        "name": "Wallace, S. "
+                                    },
+                                    {
+                                        "name": "Gravells, J."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Personal Tutoring for the 21st Century",
+                                "publisher": "Barnsley: Further Education Tutorial Network",
+                                "year": "2013",
+                                "link": "",
+                                "authors": [
+                                    {
+                                        "name": "Wootton, S."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "year": "2002",
+                                "title": "Coaching For Performance: Growing People, Performance and Purpose",
+                                "publisher": "London: Nicholas Brealey Publishing",
+                                "link": "https://www.amazon.co.uk/Coaching-Performance-Growing-People-Purpose/dp/1857883039",
+                                "authors": [
+                                    {
+                                        "name": "Whitmore, J."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-website",
+                                "links": [
+                                    {
+                                        "text": "European Mentoring and Coaching Council website (United Kingdom version)",
+                                        "link": "http://www.emccuk.org"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-pdf",
+                                "links": [
+                                    {
+                                        "text": "Personal tutoring for the 21st century by Wooton S (2013)",
+                                        "link": "pdfs/Personal tutoring for the 21st century.pdf"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },

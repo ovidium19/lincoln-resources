@@ -1,3 +1,23 @@
+<div class="card card-links pt-2">
+    <div class="card-header card-links pb-2">
+        <span class="d-block">{{section.subtitle}}</span>
+        <span class="d-block mt-3" style="font-size: 0.9rem">{{component.subtitle || 'Related Documents' | uppercase}}</span>
+
+    </div>
+    <div class="card-body">
+        <div class="link-blocks">
+            <div class="link-block" ng-repeat="mail in component.links">
+                <a href="{{mail.link}}" target="_blank" style="text-decoration: none">
+                    <div class="link-block__inner ">
+                        <i class="fa fa-file-pdf-o fa-2x card-icon"></i>
+                        <span>{{mail.text}}</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+        <!--
 <div class="card card-inner">
     <div class="card-body py-2">
         <div class="card-subtitle email-subtitle w-50 text-center" ng-show="component.subtitle">
@@ -19,3 +39,4 @@
         </div>
     </div>
 </div>
+        -->

@@ -40,6 +40,28 @@
                                         "text": "form"
                                     }
                                 ]
+                            },
+                            {
+                                "type": "link-pdf",
+                                "links": [
+                                    {
+                                        "text": "Support for disabled students",
+                                        "link": "pdfs/supportfordisabledstudents.pdf"
+                                    },
+                                    {
+                                        "text": "Mental health and counselling",
+                                        "link": "pdfs/youdontlookdisabled.pdf"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-website",
+                                "links": [
+                                    {
+                                        "text": "Github page for this website",
+                                        "link": "http://www.google.com"
+                                    }
+                                ]
                             }
                         ]
                     }

@@ -1,12 +1,16 @@
-<div class="card card-inner">
+<div class="card card-website-links my-4">
+    <div class="card-header text-center mb-2">
+        <span class="fa fa-globe fa-2x mr-3"></span>
+        <span class="external-resources">External Resources</span>
+    </div>
     <div class="card-body py-2">
         <div class="card-subtitle">
-           {{component.subtitle}}
+            {{component.subtitle}}
         </div>
         <div class="card-text">
             <div ng-repeat="mail in component.links">
                 <span class="email-tag mr-4" ng-show="mail.tag">{{mail.tag}}: </span>
-                <span class="fa fa-globe"></span>
+                <span class="fa fa-globe mr-1"></span>
                 <a class="website-link" href="{{mail.link}}" title="Go to: {{mail.link}}" target="_blank">{{mail.text}}</a>
             </div>
         </div>
