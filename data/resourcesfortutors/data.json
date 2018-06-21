@@ -639,22 +639,11 @@
         ]
     },
     {
-        "name": "Template 2",
+        "name": "Personal tutor values and skills",
         "chapters": [
             {
                 "name": "Introduction",
                 "sections": [
-                    {
-                        "subtitle": "Introduction",
-                        "space_after": true,
-                        "components": [
-                            {
-                                "type": "text-paragraph",
-                                "links": [],
-                                "text": "Simple paragraph component to explain the purpose of this block."
-                            }
-                        ]
-                    },
                     {
                         "subtitle": "Learning Outcomes",
                         "space_after": false,
@@ -664,19 +653,316 @@
                                 "list_elements": [
                                     {
                                         "links": [],
-                                        "text": "List component for presenting the learning outcomes for this block"
+                                        "text": "Understand what the core values and skills of an\neffective personal tutor are and be able to\ndistinguish between them."
                                     },
                                     {
                                         "links": [],
-                                        "text": "in"
+                                        "text": "Consider approaches to embedding the core\nvalues and skills within your teaching and\npersonal tutoring practice and apply them to\ndifferent situations."
+                                    }
+                                ],
+                                "subtitle": "This section helps you to:"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Core values and skills of the personal tutor",
+                "sections": [
+                    {
+                        "subtitle": "Core values and skills",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "subtitle": "Among the core values of the personal tutor, the following ones are key:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-weight:500;font-size:1.1em'>high expectations</span>"
                                     },
                                     {
                                         "links": [],
-                                        "text": "list"
+                                        "text": "<span class='text-danger' style='font-weight:500;font-size:1.1em'>approachability</span>"
                                     },
                                     {
                                         "links": [],
-                                        "text": "form"
+                                        "text": "<span class='text-danger' style='font-weight:500;font-size:1.1em'>diplomacy</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-weight:500;font-size:1.1em'>being non-judgemental</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-weight:500;font-size:1.1em'>compassion</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-weight:500;font-size:1.1em'>the ‘<span style='font-style:italic'>equal partner, not superior</span>’ approach</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-weight:500;font-size:1.1em'>genuineness</span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "High Expectations",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>To demand maximum effort and application from your students.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Typical Context",
+                                "text": "The achievement of students is closely linked to the expectations you place on them. Students who are expected to learn more or perform better generally do so while those held to lower expectations usually achieve less."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Lowering expectations of students can become a self-fulfilling prophecy and the way to break this is to raise expectations for all areas of a student's life and to ensure they receive the support they need to reach those high expectations. This will positively affect their grades and job prospects, as well as value-added scores and the success rates of the institution."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Approachability",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>The attribute of being seen as friendly, easy to talk to and discuss things with.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Typical Context",
+                                "text": "As you start to work with students in one to ones, it can be obvious when something isn't quite right with them, either through verbal or non-verbal cues, for example, lack of eye contact, negative body language and/or demeanour.",
+                                "space_after": true
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Ways to appear more approachable to a student in order to encourage them to be more open are to:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Have friendly body language, in other words, smile, have your arms open, not folded;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not to be afraid to ask if everything is alright, using a general open questions, for example, <span style='font-style:italic'>'how are you?'</span>, <span style='font-style:italic'>'how are things?'</span>;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reiterate that they can trust you ( obviously not to keep a secret if it might put them or someone else at risk of harm)."
+                                    }
+                                ],
+                                "space_after": true
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You should realise this can take time; students may not trust you straight away."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Diplomacy",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Using mediation and de-escalation between opposing views or 'sides' in order to positively progress.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Typical Context",
+                                "text": "Instead of taking punitive action against students in terms of stating the possible negative outcomes of not engaging with others, showing good communication skills can sensitively and tactfully mediate the situation. Becoming skilled in the art of de-escalating a tense situation is a very useful way to be able to positively influence your students."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Being non-judgemental",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Not viewing or labelling a student as, for example, 'good' or 'bad'. In other words, you are making a conscious effort to avoid being critical of the actions of students and trying to be open-minded.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Typical Context",
+                                "text": "It isn't easy to reserve judgement on a student and no practitioner, new or experienced, is entirely able to do so. However, the core value of being non-judgemental strives to overcome the labelling of students and in reality is always trying to give them the opportunity to show you their better side. It is important to say that, from experience, sometimes in this relationship, you will get your heart broken."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Some students will not always rise to the challenge; however, if we go back to the principles of being an effective personal tutor, it is about motivating and inspiring them to achieve their potential. In order for a student to achieve this and hopefully improve their behaviour or attitude, it is important to approach each of them with an open mind, as many times as you, the department or institution is able to do so."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "The equal partner, not superior approach",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Presenting yourself as on the same level as the student rather than being overly hierarchical.\n</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Typical Context",
+                                "text": "There are many opportunities to display to students that you understand what pressures they face and this approach also allows you to role model good behaviour and provide a positive attitude to stressful situations. Good parents try to instil positive core values into their children and the personal tutor can do the same when you role model core values to your students."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Compassion",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Understanding students' feelings and caring about their well-being.\n</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Compassion means putting yourself 'in the shoes' of the student and taking action to ensure a positive outcome."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Genuineness",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Showing your ture feelings and showing to your students that you truly care about their learning, progress and well-being.\n</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Typical Context",
+                                "text": "As a general rule, students are perceptive and can tell when a teacher is authentic in their concern for them. From experience, you will have greater success in helping students react in a more positive manner towards you if they feel that the help, advice and support you are providing is genuine and honest."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Case studies",
+                "sections": [
+                    {
+                        "subtitle": "How to approach these case studies",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>In each case what actions would you take and why?</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What personal tutoring core values are you demonstrating\nthrough these actions?</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Case study 1",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "In the course of a chat with a female student of yours you initiated about her lack of engagement in sessions, she explains that she is feeling ‘got at’ by two of her peers. They used to be friends but have recently fallen out. She explains that she has tried to ignore it as long as she can but it is now making her so upset that she is reluctant to come to university and it has made her consider self-harming again. You are aware that she has a previous history of self-harming.",
+                                "space_after": true
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What actions would you take and why?</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What personal tutoring core values are you demonstrating\nthrough these actions?</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Case study 2",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "During a one to one meeting you have to explain to a student that, at the current time, he is unlikely to be able to pass due to poor attendance and punctuality as well as being behind on submissions of assignments. He has some learning difficulties and is a young carer for his disabled parents. He reacts angrily to this news and blames you and the other teachers for not supporting him enough or taking into account his personal circumstances.",
+                                "space_after": true
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What actions would you take and why?</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What personal tutoring core values are you demonstrating\nthrough these actions?</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Case study 3",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You are near the end of delivering a course, which is assessed through a final exam, to an able and self-motivated group of students. You feel that you have provided clear course objectives that were reasonable and appropriate, along with good teaching, learning and assessment throughout. However, students start to complain that you haven’t explained the content clearly enough and they are scared they will fail the exam.",
+                                "space_after": true
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What actions would you take and why?</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What personal tutoring core values are you demonstrating\nthrough these actions?</span>"
                                     }
                                 ]
                             }
@@ -685,17 +971,481 @@
                 ]
             },
             {
-                "name": "Chapter 1",
-                "sections": []
+                "name": "Categories or personal tutor skills",
+                "sections": [
+                    {
+                        "subtitle": "Domain general and domain specific skills",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='bg-success text-white p-1'>Domain-general </span> are common skills which may not\nnecessarily be directly related to your personal tutor\nrole and which you would find useful for most jobs,\nfor example, good communication, time-\nmanagement, problem-solving and organisational\nskills. <span class='bg-success text-white p-1'>Domain-specific skills</span> are those which are\nmore directly related to your personal tutor role."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/tutorskillcategories.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "‘Hard’ and ‘soft’ skills",
+                                "text": "A further way to divide the core skills is into ‘hard’\nand ‘soft’ skills. Here are some examples for each category."
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "'Hard' Skills:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Effective tutorial and lesson planning;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Developing a presentation or lesson resource;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Effective one to one meetings with learners;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Helping a learner develop their job application."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "'Soft' Skills:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "building rapport;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "decision-making;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "reflecting back and summarising;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "active listening and questioning;"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "The core skills of the personal tutor",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Building genuine rapport with your students",
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Developing a harmonious relationship with a student in which each person is able to communicate effectively and understand each others' feelings or ideas.</span>",
+                                "space_after": true
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Active listening and questioning",
+                                "space_after": true,
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Involves listening intently. It is important to be seen to be listening through verbal and non-verbal messages.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Challenging",
+                                "space_after": true,
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Using questions or statements to make the student think more carefully about his/her situation and challenge assumptions he/she may ne bamking. This may help the learner see things he/she may be failing to recognise.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Reframing",
+                                "space_after": true,
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Encouraging the student to see him or herself, others or issues from a different, or another person's, perpective. Often used in conjunction with challenging.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Reflecting back and summarising",
+                                "space_after": true,
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Showing the student that you understand the content, feeling and meaning of what they have said through an extension of active listening. This is usually achieved through paraphrasing back to the student what he/she has said.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Teamwork",
+                                "space_after": true,
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Working with fellow personal tutors to develop a tutorial programme of work.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Decision-making and problem-solving",
+                                "space_after": true,
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Thinking through and making difficult decisions, even when there doesn't appear to be a clear consensus or solution.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Role modelling",
+                                "space_after": true,
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Showing your positive core values through the daily actions you take. This shows your students what a good approach and behaviour looks like. This is where you 'walk the talk'.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Proactivity, creativity and innovation",
+                                "space_after": true,
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Trying out new ideas and approaches to constantly aim to improve your personal tutoring practice. In our experience, the most effective personal tutors are relentlessly proactive in seeking out and helping to address student issues.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Working under pressure",
+                                "space_after": false,
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Staying calm in order to stay effective. Whether it's deadlines, competing demands, difficult situations or complex student issues, this is something every practitioner grapples with at some time throughout the academic year.</span>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Building Rapport, a key skill",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "subtitle": "Research has found the following:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Rapport between practitioners and learners\npositively influences learner enjoyment of their\nsubject, attendance, and time spent studying. <span class='font-weight-bold float-right' style='font-style:italic'>(Benson et al, 2005)</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Additionally, rapport has been linked to increased\nlearner attention .<span class='font-weight-bold float-right' style='font-style:italic'>(Buskist and Saville, 2004)</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Intentionally building genuine rapport with learners has positive consequences on their learning, for example:\n<ul>\n<li>discussions flow more easily,</li>\n<li>student engagement (within and outside the\nclassroom) increases, as well as their motivation\nfor doing well on their course.</li>\n</ul>\n<span class='font-weight-bold float-right' style='font-style:italic;margin-top:-5px'>Starcher (2011)</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "In his research, he intentionally tried to build\nrapport with learners through one to one meetings\nand found that 95 per cent of the learners believed\nthe one to one meetings were useful and also\nreported that they felt more comfortable speaking\nout in class, asking him questions both inside and\noutside of the classroom and because of the one\nto one meetings they felt he was truly interested in\nthem as individuals.<span class='font-weight-bold float-right' style='font-style:italic'>Starcher (2011)</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Techniques for building rapport",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Some techniques for building rapport with your students follow."
+                            },
+                            {
+                                "type": "thought-bubble",
+                                "text": "Think about them in general terms and from your own opinion\nand experience, rank the strategies one to seven, with number\none being the technique you view as the most effective and\nnumber seven as the least. Also, are there any more techniques\nthat you can add?"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/buildingRapportTechniques.jpg"
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "name": "Chapter 2",
-                "sections": []
+                "name": "Case studies for tutor skills",
+                "sections": [
+                    {
+                        "subtitle": "How to approach these case studies?",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What decisions or actions would you take?</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What factors would you need to consider?</span>"
+                                    }
+                                ],
+                                "subtitle": "Focusing on the key skill of 'decision-making and problem-solving', for each of the potential scenarios on the form below:"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Case study 1",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It is December and one of your students wants to leave because he has found a job. The job offers reasonable training opportunities but isn’t particularly well paid and doesn’t offer good promotional opportunities; however, he has said that he needs to start earning money. He is a capable learner and you expect him to complete the course with a good grade. In the last two academic years, the success rates on this course were deemed as unsatisfactory by your head of department and the senior management."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What decisions or actions would you take?</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What factors would you need to consider?</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Case study 2",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It is January and one of your students hasn’t handed in a number of assignments to most of your colleagues for marking but she has for your unit. She has relatively low attendance and poor punctuality, as well as displaying poor engagement on occasion in other classes but she works fine in your class. In your opinion, she is quite vulnerable and you believe she would struggle to get on another course or get a job if she left without achieving her qualification or progressing onto the next level. You are her personal tutor and have been trying to work with her through one to ones to improve her performance but this appears to be getting worse. Most of your colleagues openly state that she should be removed from the course. The retention rates on this course have been very poor for the last three years."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What decisions or actions would you take?</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What factors would you need to consider?</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Case study 3",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It is February and one of your students has poor attendance.  He has given you reasons such as illness and dentist appointments as well as bereavements in the family. You have been given a note on only a few occasions to explain these events. You are aware that he and his family have serious money issues because both parents are currently unemployed."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What decisions or actions would you take?</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:500;font-size:1.1em'>What factors would you need to consider?</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Summary and Reflection",
+                "sections": [
+                    {
+                        "subtitle": "What we have learned",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "It's important to think about what the core values associated\nwith effective personal tutoring are and to reflect on whether\nthese are consistent with my students' best interests."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Core skills are the day to day actions I take to support my\nlearners. Having the right skills is important to be able to carry\nout my job but it is my core values which will drive me to take\nthose actions repeatedly."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Hard skills are normally related to a specific task or action, for\nexample, writing a scheme of work or marking an assignment.\nSoft skills are more personality-driven, for example, active\nlistening, building genuine rapport and questioning."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Development and Reflection",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "subtitle": "Reflection questions",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Compare and contrast the similarities and\ndifferences between your own values as a trainee\nteacher and the core values of the personal tutor."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "To what extent do you believe your teaching\ncourse / institution have focused on improving\nyour core skills? What do you think could be done\nto improve this?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evaluate whether outstanding hard skills or\noutstanding soft skills have the greatest impact\nupon students’ success."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How well do your colleagues display the core\nvalues of the personal tutor or similar positive\nvalues? What factors do you believe lead them to\ndisplaying positive values to a greater or lesser\nextent?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "To what extent does your institution explain and\npromote its shared core values to its staff? If you\nhave worked at more than one Higher Education\nInstitution, using examples, compare and\ncontrast the two institutions’ approaches to its\nshared core values."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Self-assessment",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span style='font-style:italic'>This section is designed for you to assess where you may be in your\npersonal tutoring practice in relation to each of the section themes of the\nprogramme.  You can use it to continually reflect and inform future\ndevelopment.</span>"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "References",
+                "sections": [
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Intentionally Building Rapport with Students in College Teaching",
+                                "volume": "59 (4)",
+                                "pages": "162",
+                                "year": "2011",
+                                "authors": [
+                                    {
+                                        "name": "Starcher, K."
+                                    }
+                                ],
+                                "link": "https://www.tandfonline.com/doi/abs/10.1080/87567555.2010.516782"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Becoming an Outstanding Personal Tutor: Supporting Learners Through Personal Tutoring and Coaching.",
+                                "publisher": "Northwich: Critical Publishing",
+                                "year": "2015",
+                                "authors": [
+                                    {
+                                        "name": "Stork, A."
+                                    },
+                                    {
+                                        "name": "Walker, B."
+                                    }
+                                ],
+                                "link": "https://books.google.co.uk/books?id=CCQnDAAAQBAJ&pg=PT33&lpg=PT33&dq=Stork,+A.+and+Walker,+B.+(2015)+Becoming+an+Outstanding+Personal+Tutor:+Supporting+Learners+Through+Personal+Tutoring+and+Coaching.+Northwich:+Critical+Publishing.&source=bl&ots=TgRvFBD0pa&sig=ZKhp0EZJiXSRv0ytauVMa8wjHYY&hl=en&sa=X&ved=0ahUKEwipx9y6zeTbAhVIthQKHSeaB5QQ6AEINTAC#v=onepage&q=Stork%2C%20A.%20and%20Walker%2C%20B.%20(2015)%20Becoming%20an%20Outstanding%20Personal%20Tutor%3A%20Supporting%20Learners%20Through%20Personal%20Tutoring%20and%20Coaching.%20Northwich%3A%20Critical%20Publishing.&f=false"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Further Reading",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Professional Attribute and Practice: Meeting the QTS Standards (4th edition)",
+                                "publisher": "Oxon: Routledge",
+                                "year": "2008",
+                                "authors": [
+                                    {
+                                        "name": "Halstead, J.M. "
+                                    },
+                                    {
+                                        "name": "Taylor, M.J. (2000) "
+                                    },
+                                    {
+                                        "name": "cited in  Smith C."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Pygmalion in the Classroom: Teacher Expectations and Pupils’ Intellectual Development.",
+                                "publisher": "Carmarthen: Crown House Publishing",
+                                "year": "2003",
+                                "authors": [
+                                    {
+                                        "name": "Rosenthal, R. "
+                                    },
+                                    {
+                                        "name": "Jacobson, L."
+                                    }
+                                ],
+                                "link": "https://www.crownhouse.co.uk/publications/pygmalion-in-the-classroom"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Promoting Positive Values, in Cole, M. (ed) Professional Values and Practice: Meeting the Standards",
+                                "publisher": "London: David Fulton.",
+                                "year": "2005",
+                                "authors": [
+                                    {
+                                        "name": "Rice, L."
+                                    }
+                                ],
+                                "link": "https://books.google.co.uk/books?id=CCQnDAAAQBAJ&pg=PT50&lpg=PT50&dq=Rice,+L.+(2005)+Promoting+Positive+Values,+in+Cole,+M.+(ed)+Professional+Values+and+Practice:+Meeting+the+Standards.+London:+David+Fulton.&source=bl&ots=TgRvFBD_x8&sig=p11fyu2dJGJr_CuTVp_weYRcOaM&hl=en&sa=X&ved=0ahUKEwim4PGAzeTbAhUE1hQKHRkqDywQ6AEIKTAA#v=onepage&q=Rice%2C%20L.%20(2005)%20Promoting%20Positive%20Values%2C%20in%20Cole%2C%20M.%20(ed)%20Professional%20Values%20and%20Practice%3A%20Meeting%20the%20Standards.%20London%3A%20David%20Fulton.&f=false"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Demonstrating Positive Values in Cole, M. (ed.) Professional Attribute and Practice: Meeting the QTS Standards (4th edition).",
+                                "publisher": "Oxon: Routledge",
+                                "year": "2008",
+                                "authors": [
+                                    {
+                                        "name": "Smith, C."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Teaching for Equality and Diversity: Putting Values into Practice in Ostler, A. (ed) Teachers, Human Rights and Diversity",
+                                "publisher": "Stoke on Trent: Trentham Books",
+                                "year": "2003",
+                                "authors": [
+                                    {
+                                        "name": "Wilkins, C."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
     {
-        "name": "Template 3",
+        "name": "Setting boundaries",
         "chapters": [
             {
                 "name": "Introduction",
@@ -707,7 +1457,7 @@
                             {
                                 "type": "text-paragraph",
                                 "links": [],
-                                "text": "Simple paragraph component to explain the purpose of this block."
+                                "text": "In this section we are talking about the boundaries\nmost relevant when providing a high level of\nindividual, holistic support."
                             }
                         ]
                     },
@@ -720,19 +1470,15 @@
                                 "list_elements": [
                                     {
                                         "links": [],
-                                        "text": "List component for presenting the learning outcomes for this block"
+                                        "text": "Establish the necessary boundaries between\nyourself, as the personal tutor, and students."
                                     },
                                     {
                                         "links": [],
-                                        "text": "in"
+                                        "text": "Identify the following types of boundaries along\nwith their rationale:\n<ul>\n<li>Expertise</li>\n<li>Temporal (time)</li>\n<li>Behavioural</li>\n<li>Peer</li>\n</ul>"
                                     },
                                     {
                                         "links": [],
-                                        "text": "list"
-                                    },
-                                    {
-                                        "links": [],
-                                        "text": "form"
+                                        "text": "Recognise and set boundaries with students and\nclarify their purpose by examining boundaries in\ncontext."
                                     }
                                 ]
                             }
@@ -741,12 +1487,419 @@
                 ]
             },
             {
-                "name": "Chapter 1",
-                "sections": []
+                "name": "Boundary types",
+                "sections": [
+                    {
+                        "subtitle": "Expertise boundaries",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>You don't have the expertise or training; other people in your institution are employed for these purposes.</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Examples:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-size:1.1em;font-weight:500'>Mental Health</span><span class='d-block' style='font-style:italic'>Specific example - a student making suicide threats</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-size:1.1em;font-weight:500'>Counselling</span><span class='d-block' style='font-style:italic'>Specific example - a student who has suffered a bereavement</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-size:1.1em;font-weight:500'>Safeguarding</span><span class='d-block' style='font-style:italic'>Specific example - a student who you think may be the victim of sexual exploitation from things they have said to you.</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-size:1.1em;font-weight:500'>Accommodation</span><span class='d-block' style='font-style:italic'>Specific example - a student who has had to leave home and seeks advice from you about what to do next.</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Temporal boundaries",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>You, as a resource for your students, are not a limitless resource; equality and fairness to all your students needs maintaining</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Examples:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='d-block' style='font-style:italic'>A student with complex individual needs who could end up taking an increased and excessive amount of your time.</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Behavioural boundaries",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>Your responsibility is to <span class='text-danger' style='font-weight:700;font-style:italic;font-size:1.4em'>influence</span> student behaviour, but you are not able to <span class='text-danger' style='font-weight:700;font-style:italic;font-size:1.4em'>control</span> student behaviour</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Examples:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-size:1.1em;font-weight:500'>Poor student behaviour</span><span class='d-block' style='font-style:italic'>Specific example- \n Repeated 'low level' disruptive behaviour from a student over a period of time with no sign of improvement. </span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Peer boundaries",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-success' style='font-weight:500;font-style:italic;font-size:1.4em'>The promotion of respect and professionalism amongst your students.</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Examples:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-danger' style='font-size:1.1em;font-weight:500'>A student who does not recognise and apply boundaries with their peers</span><span class='d-block' style='font-style:italic'>Specific example- \n A student disrespecting the views of a peer or peers through repeated mocking and what may be deemed 'bullying'(both verbal and through social media).</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Thinking point - boundaries",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "thought-bubble",
+                                "text": "When did you most recently think that your own\nsupport of a student had been exhausted? How did\nyou know and what did you do about it?"
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "name": "Chapter 2",
-                "sections": []
+                "name": "Case study on boundaries",
+                "sections": [
+                    {
+                        "subtitle": "Case study - Jasmine and Asif",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-info' style='font-size:1.3em'>Read the following transcript of a one to\none meeting between Jasmine and her\npersonal tutor, Asif.</span>"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/jasmineasif1.jpg"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/jasminasif2.jpg"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/jasmineasif3.jpg"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/jasmineasif4.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<div class='border border-info p-2' style='font-size:1.2em'>\n<span class='fa fa-info-circle fa-2x text-info float-left d-block mr-4'></span>\nThink about which type of boundaries (from the\nfour listed in the table of boundary\ntypes above) are set or recognised by\nAsif and, in note form, explain how he\ndoes this.\n</div>"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Looking after yourself",
+                "sections": [
+                    {
+                        "subtitle": "Supervisions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-danger' style='font-style:italic;font-weight:400;font-size:1.3em'>How often?</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "a reasonable regularity needs maintaining for keeping momentum going and possible revisiting issues and reviewing progress."
+                                    }
+                                ],
+                                "space_after": true
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-danger' style='font-style:italic;font-weight:400;font-size:1.3em'>Who is invited?</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "a small group of your peers at work (group supervision) or a one to one with a peer or your manager ('paired' of 'individual' supervision);"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "In the case of the former, the line manager doesn't attend unless he is specifically invited. Some reasons for this: \n<ul>\n<li>To avoid the manager leading and, possibly even without knowing, driving an agenda and seeing themselves as there to 'solve' issues;</li>\n<li>exploration of the issue is reduced;</li>\n<li>participants will feel more free to express feelings they may have about an issue without a potential fear of looking 'weak' or 'not coping' in front of their manager;</li>\n<li>supervision is differentiated from other typical group meetings.</li>\n</ul>"
+                                    }
+                                ],
+                                "space_after": true
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='text-danger' style='font-style:italic;font-weight:400;font-size:1.3em'>What are the ground rules?</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "use of a confidential space;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "a specific amount of time is given;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "one person to talk at a time;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "clarity over whose issues will be aired that session; it may be that there is only 1 or 2 per session;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "this lead contributor(s) to start the session outlining the issue along with their concerns/questions;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "concentration on that issue and the contributor's concern and questions without digression from this or others bringing forward their concerns;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "focus on open questions from the group enabling the lead contributor to find their own solutions."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Summary and Reflection",
+                "sections": [
+                    {
+                        "subtitle": "What we have learned",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "There is a need for setting boundaries for the good and\nprotection of both students and yourself (as personal tutor)."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There are different types of boundaries most relevant to the personal tutor and a rationale for each:\n<ul>\n<li>expertise – I need to use other ‘experts’ at times;</li>\n<li>temporal – I am a limited resource;</li>\n<li>behavioural – I can influence but not control learner\nbehaviour;</li>\n<li>peer - the promotion of respect and professionalism amongst\nmy students.</li>\n</ul>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Effective boundary setting can enable students to take\nresponsibility and become more independent."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reflection questions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "In your personal tutor role, to what extent do you\nbelieve you and your students know and\nrecognise the boundaries between you and them\nand between themselves as peers?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Can you think of particular students of yours who\nyou feel would benefit from having boundaries\nclarified to them? What boundary type(s) is it (are\nthey)? How will you go about doing this?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "To what extent do you feel teaching development\nyou have undertaken has covered the boundaries\nexamined in this section or similar boundaries?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How much emphasis does your current institution\n(and your colleagues within it) place on setting\nboundaries? What do you think could be done to\nimprove this?"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Self-assessment",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "to be created."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "References",
+                "sections": [
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Boundary Dilemmas in Teacher-Student Relationships: Struggling with “The Line.” Teaching and Teacher Education,",
+                                "pages": "636-646",
+                                "volume": "25 (5)",
+                                "year": "2009",
+                                "authors": [
+                                    {
+                                        "name": "Aultman, L. P."
+                                    },
+                                    {
+                                        "name": "Williams-Johnson M. R."
+                                    },
+                                    {
+                                        "name": "Schutz P.A."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Becoming an Outstanding Personal Tutor: Supporting Learners Through Personal Tutoring and Coaching.",
+                                "publisher": "Northwich: Critical Publishing",
+                                "year": "2015",
+                                "authors": [
+                                    {
+                                        "name": "Stork, A."
+                                    },
+                                    {
+                                        "name": "Walker, B."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Further Reading",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Sometimes You Just Want to Cry",
+                                "publisher": "Times Educational Supplement",
+                                "volume": "No. 5114",
+                                "year": "2014",
+                                "pages": "24-28",
+                                "authors": [
+                                    {
+                                        "name": "Bloom, A."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Personal and Interpersonal Relationships in Education and Teaching: A Virtue Ethical Perspective",
+                                "publisher": "British Journal of Educational Studies",
+                                "volume": "53 (3)",
+                                "pages": "255-271",
+                                "year": "2005",
+                                "authors": [
+                                    {
+                                        "name": "Carr, D."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Cultural Models of Care in Teaching: A Case Study of One Pre-service Secondary Teacher",
+                                "publisher": "Teaching and Teacher Education",
+                                "volume": "20",
+                                "pages": "473-488",
+                                "year": "2004",
+                                "authors": [
+                                    {
+                                        "name": "Gomez, M. L, "
+                                    },
+                                    {
+                                        "name": "Allen, A."
+                                    },
+                                    {
+                                        "name": "Clinton, K."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Secret Teacher: I Feel Like More of a Social Worker Than a Teacher",
+                                "volume": "online",
+                                "year": "2015",
+                                "publisher": "The Guardian",
+                                "link": "http://www.theguardian.com/teacher-network/2015/jan/10/secret- teacher-social-worker-emotional-students"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The Role of Elementary Teachers’ Conceptions to Closeness of Students on their Differential Behaviour in the Classroom",
+                                "publisher": "Teaching and Teacher Education",
+                                "volume": "24 (8)",
+                                "pages": "1965-1985",
+                                "year": "2008",
+                                "authors": [
+                                    {
+                                        "name": "Newberry, M."
+                                    },
+                                    {
+                                        "name": "Davis, H.A."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }
