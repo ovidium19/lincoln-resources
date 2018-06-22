@@ -1902,5 +1902,572 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Measuring the impact of your role",
+        "chapters": [
+            {
+                "name": "Introduction",
+                "sections": [
+                    {
+                        "subtitle": "Learning Outcomes",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "subtitle": "This section helps you to:",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify ways in which the impact of your personal\ntutoring core skills and key activities can be\nmeasured at both an individual and institutional\nlevel."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Recognise some of the issues with measuring the\nimpact of the personal tutoring role."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Returning to the definition of the personal tutor",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-quote",
+                                "text": "The personal tutor is one who improves the\nintellectual and academic ability, and nurtures the\nemotional well-being, of learners through\nindividualised, holistic support."
+                            },
+                            {
+                                "type": "thought-bubble",
+                                "text": "What are all the ways you think the elements of\n'intellectual and academic ability' and 'emotional\nwell-being' can be measured?"
+                            },
+                            {
+                                "type": "thought-bubble",
+                                "text": "What do you notice about the two parts and the\nways of measuring them?"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Measuring the impact of key activities",
+                "sections": [
+                    {
+                        "subtitle": "The link between learning and emotional well- being",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:600;font-size:1.1em'>A two way process</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:600;font-size:1.1em'>A positive cycle</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:600;font-size:1.1em'>The importance of comparison and timescale</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Measuring the impact of personal tutoring key activities",
+                        "space_after": false,
+                        "components": []
+                    },
+                    {
+                        "subtitle": "One to one activities with the student",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='fa fa-caret-right text-danger mr-2 ml-3'></span><span class='text-danger' style='font-size:1.4em;font-weight:bold'>How could impact be measured?</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "text": "",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Observation;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "'audit' on one to one recording;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "student satisfaction surveys;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='mb-4'>informal discussions with students</span>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='py-3'><span class='fa fa-caret-right text-danger mr-2 ml-3'></span><span class='text-danger' style='font-size:1.4em;font-weight:bold'>Who carries out the measuring?</span></span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Line manager, peers or personal tutor."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='fa fa-caret-right text-danger mr-2 ml-3'></span><span class='text-danger' style='font-size:1.4em;font-weight:bold'>What are the success criterias?</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Retention rates;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "attainment rates;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "progression rates."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "The tracking and monitoring of students",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='fa fa-caret-right text-danger mr-2 ml-3'></span><span class='text-danger' style='font-size:1.4em;font-weight:bold'>How could impact be measured?</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "'audit' on tracking and monitoring recording;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "individual 'intervention analysis';"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='py-3'><span class='fa fa-caret-right text-danger mr-2 ml-3'></span><span class='text-danger' style='font-size:1.4em;font-weight:bold'>Who carries out the measuring?</span></span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Line manager;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Personal tutor;"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='fa fa-caret-right text-danger mr-2 ml-3'></span><span class='text-danger' style='font-size:1.4em;font-weight:bold'>What are the success criterias?</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Retention rates, attainment rates and progression rates, with special attention to students at high risk where specific support actions have taken place."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Target setting",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='fa fa-caret-right text-danger mr-2 ml-3'></span><span class='text-danger' style='font-size:1.4em;font-weight:bold'>How could impact be measured?</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Quality audit of recording of processes which include target setting - one to ones;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "tracking and monitoring;"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='py-3'><span class='fa fa-caret-right text-danger mr-2 ml-3'></span><span class='text-danger' style='font-size:1.4em;font-weight:bold'>Who carries out the measuring?</span></span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Line manager"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='fa fa-caret-right text-danger mr-2 ml-3'></span><span class='text-danger' style='font-size:1.4em;font-weight:bold'>What are the success criterias?</span>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "'Audit' results and report on feedback on the extent to which targets are 'SMART' and 'stretch and challenge' students;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Key performance indicators: Retention, attainment and progression rates, with special attention to attainment."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Using the National Occupational Standards ('NOS') for personal tutoring",
+                        "space_after": false,
+                        "components": []
+                    },
+                    {
+                        "subtitle": "LSIPT02 Develop own practice in personal tutoring",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "NOS Performace criteria:",
+                                "text": "<span class='bg-info text-white px-1 mr-3' style='font-size:1rem'>P12</span><span>Assess the extent to which own practice is inclusive and promotes equality and diversity.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Relevant impact measure:",
+                                "text": "Retention filtered by gender, ethnicity, learning difficulty and disability to check for any 'equality gaps'."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "LSIPT03 Create a safe, supportive and protective learning environment",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<span class='bg-info text-white px-1 mr-3' style='font-size:1rem'>P16</span><span>Provide tutorial support in an environment where students feel safe, secure, confident and valued.</span>",
+                                "subtitle": "NOS Performance criteria:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Relevant impact measure:",
+                                "text": "Student survey results and feedback on tutorial focusing on students' perception of their safety, security, confidence and how valued they feel as a result of the tutorial."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "LSIPT04 Explore and identify students' needs and address barriers to learning",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "NOS Performance criteria:",
+                                "text": "<span class='bg-info text-white px-1 mr-3' style='font-size:1rem'>P26</span><span>Communicate regularly with each student in order to identify at-risk indicators.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Relevant impact measure:",
+                                "text": "Individual 'intervention analysis' of attendance and completion of work levels of particular students who have been the subject of specific personal tutoring actions of yours; can be carried out in-year(monthly or end of year)"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "LSIPT09 Support students' transition and progression",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "NOS Performance criteria:",
+                                "text": "<span class='bg-info text-white px-1 mr-3' style='font-size:1rem'>P63</span><span>Work with students to identify, where appropriate, goals relating to their career development and suitable and realistic progression options.</span>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Relevant impact measure:",
+                                "text": "Internal progression rates for your student groups; analysis of destination data for your student groups."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "The dangers of over-measuring",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:600;font-size:1.1em'>Institutional measuring</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:600;font-size:1.1em;font-style:italic;'>\"You can’t fatten a pig by weighing it all the time\"</span>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "<span class='text-info' style='font-weight:600;font-size:1.1em'>Correlation and causation</span>"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Summary and Reflection",
+                "sections": [
+                    {
+                        "subtitle": "What we have learned",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Ways in which the two key elements of intellectual/academic\nprogress and emotional well-being of students can be\nmeasured."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ways of measuring the impact of your personal tutoring at\nboth an individual and institutional level."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ways of being constructively critical of measuring the impact\nof your personal tutor role"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The National Occupational Standards for Personal Tutoring can\nbe linked to impact measures."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There is a  relationship between personal tutoring practice and\nstudent performance, and a value in assessing the extent of\nthis, whilst acknowledging other multiple factors influence\nlearner performance."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reflection Questions",
+                        "space_after": true,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "To what extent do you think there is a focus on\nmeasuring the impact of personal tutor practice\non students’ performance:\n<ul>\n<li>by you, individually?</li>\n<li>by any teaching course you may have\nundertaken?</li>\n<li>by your manager, at a team level, in your\ninstitution?</li>\n<li>by senior managers across your\ninstitution?</li>\n</ul>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If it is not carried out or covered, how could it\nbecome so?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "To what extent do learner-facing staff at your\ninstitution perceive measuring impact of personal\ntutoring as having a clear rationale and as\nmeaningful and developmental? What could be\ndone to improve this perception?"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Self-assessment",
+                        "space_after": false,
+                        "components": []
+                    }
+                ]
+            },
+            {
+                "name": "References",
+                "sections": [
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Cameron, W.B. (1963) Informal Sociology: A Casual Introduction to\nSociological Thinking. New York: Random House."
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "portion": "Available here",
+                                                "href": "http://www.marquetteeducator.wordpress.com/2011/11/12/you-cant- fatten-a-pig-by-weighing-it-assessment-and-the-future-of-teacher- education/"
+                                            }
+                                        ],
+                                        "text": "Chapman, C. (n.d.) cited in Weuntsel P. (2011) You Can’t Fatten a Pig\nby Weighing It:  Assessment and the Future of Teacher Education.\n[online]. Available here."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "DuttonY., Eldred J., Snowdon K. and Ward J., (2004) Catching\nConfidence. Leicester: NIACE."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Markless S. and Streatfield D. (2006) Evaluating the Impact of\nInformation Literacy in Higher Education: Progress and Prospects.\nLondon: Facet Publishing."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Martinez, P. (2001) Improving Student Retention and Achievement:\nWhat Do We Know and What Do We Need to Find Out? LSDA report.\nLondon: Learning and Skills Development Agency."
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "portion": "Available here",
+                                                "href": "http://www.mentalhealth.org.uk/help-information/an-introduction-to- mental-health/what-is-good-mental-health"
+                                            }
+                                        ],
+                                        "text": "Mental Health Foundation (n.d.) What is Good Mental Health?\n[online]. Available here"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Norman M. and Hyland T. (2003) cited in Dutton Y., Eldred J., Snowdon\nK. and Ward J., (2004) Catching Confidence. Leicester: NIACE."
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "portion": "Available here",
+                                                "href": "https://www.acu.ac.uk/membership/acu-insights/acu- insights-2/defining-understanding-and-measuring-impact"
+                                            }
+                                        ],
+                                        "text": "Research Excellence Framework, n.d., cited in The Association of\nCommonwealth Universities (2012), Defining, Understanding and\nMeasuring Impact. [online]. Available here"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Stork, A. and Walker, B. (2015) Becoming an Outstanding Personal\nTutor: Supporting Learners Through Personal Tutoring and Coaching.\nNorthwich: Critical Publishing."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The Further Education Tutorial Network (FETN) (2013), Plenary\nPresentation: Towards Excellence; National Occupational Standards for\nPersonal Tutoring. Barnsley: FETN."
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "portion": "Available at this link",
+                                                "href": "http://nos.ukces.org.uk/Pages/index.aspx"
+                                            }
+                                        ],
+                                        "text": "UK Commission For Education and Skills (n.d.) National Occupational\nStandards for Personal Tutoring. Available at this link"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Wallace, S. and Gravells, J. (2013) The A-Z Guide to Working in Further\nEducation. Northwich: Critical Publishing."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ward J. and Edwards J. (2002) cited in Dutton Y. et al (2004) Catching\nConfidence. NIACE."
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "portion": "Available here",
+                                                "href": "http://www.marquetteeducator.wordpress.com/2011/11/12/you-cant- fatten-a-pig-by-weighing-it-assessment-and-the-future-of-teacher- education/"
+                                            }
+                                        ],
+                                        "text": "Weuntsel P. (2011) You Can’t Fatten a Pig by Weighing It:  Assessment\nand the Future of Teacher Education. [online]. Available here"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Further Reading",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "AMOSSHE (2011) Assessing the Value and Impact of Services that\nSupport Students Final Report to HEFCE LGM Funders. London:\nAMOSSHE."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Department for Business Innovation and Skills (2013) Motivation and\nBarriers to Learning to Young People Not in Education, Employment or\nTraining. BIS Research Paper 87. London: BIS."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Jameson, J. and Hillier, Y. (2015) Small-scale Research: Action Research\nand Reflective Practice in Gregson M., Nixon L., Pollard A., and Hillier Y.\n(eds) Readings for Reflective Teaching in Further, Adult and Vocational\nEducation. London: Bloomsbury."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Lawrence, D. (2000), Building Self-Esteem with Adult Learners.\nLondon: Paul Chapman."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Lindenfield, G. (1995) The Power of Personal Development.\nManagement Development Review. 8 (1): 28-31."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Norman, M. & Hyland, T. (2003) The Role of Confidence in Lifelong\nLearning. Educational Studies. 29 (2/3)."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Schuller, T., Brassett-Grundy, A., Green, A., Hammond, C. and Preston,\nJ. (2002) Learning, Continuity and Change in Adult Life. London: The\nCentre for Research on the Wider Benefits of Learning."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ward, J. and Edwards, J. (2002) Learning Journeys: Learners’ Voices:\nLearners’ Views on Progress and Achievement in Literacy and\nNumeracy: Summary. London: LSDA."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     }
 ]
