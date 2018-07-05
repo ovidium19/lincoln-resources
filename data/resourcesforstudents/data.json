@@ -1,23 +1,12 @@
 [
     {
-        "name": "Template 1",
+        "name": "Academic Etiquette",
         "chapters": [
             {
                 "name": "Introduction",
                 "sections": [
                     {
-                        "subtitle": "Introduction",
-                        "space_after": true,
-                        "components": [
-                            {
-                                "type": "text-paragraph",
-                                "links": [],
-                                "text": "Simple paragraph component to explain the purpose of this block."
-                            }
-                        ]
-                    },
-                    {
-                        "subtitle": "Learning Outcomes",
+                        "subtitle": "Aims",
                         "space_after": false,
                         "components": [
                             {
@@ -25,41 +14,94 @@
                                 "list_elements": [
                                     {
                                         "links": [],
-                                        "text": "List component for presenting the learning outcomes for this block"
+                                        "text": "Identify suitable language for use in emails at university"
+                                    }
+                                ],
+                                "space_after": true
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Introduction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "While you are at university, you should behave as you would in a professional work\nenvironment – this will prepare you for your career"
                                     },
                                     {
                                         "links": [],
-                                        "text": "in"
+                                        "text": "Most academic staff in the UK will be on first name terms with students – but check this\nfirst"
                                     },
                                     {
                                         "links": [],
-                                        "text": "list"
+                                        "text": "Emails have been an important part of our communication for a number of years now"
                                     },
                                     {
                                         "links": [],
-                                        "text": "form"
+                                        "text": "They don’t need to be as formal as a letter, but not as informal as a text message for\nexample"
                                     }
                                 ]
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Email Etiquette: a few tips",
+                        "space_after": false,
+                        "components": [
                             {
-                                "type": "link-pdf",
-                                "links": [
+                                "type": "list-text",
+                                "list_elements": [
                                     {
-                                        "text": "Support for disabled students",
-                                        "link": "pdfs/supportfordisabledstudents.pdf"
+                                        "links": [],
+                                        "text": "It’s better to be too formal than too informal (consider that your email may be forwarded\nto another member of staff who you are not so familiar with)"
                                     },
                                     {
-                                        "text": "Mental health and counselling",
-                                        "link": "pdfs/youdontlookdisabled.pdf"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "link-website",
-                                "links": [
+                                        "links": [],
+                                        "text": "Avoid using shorthand in emails, such as ‘thx’"
+                                    },
                                     {
-                                        "text": "Github page for this website",
-                                        "link": "http://www.google.com"
+                                        "links": [],
+                                        "text": "Use correct grammar, complete sentences and capital letters in the appropriate places (‘I’\nnot ‘i’)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure your email address is appropriate and professional"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Always check you've got the right name in the 'To' box: there are often staff members at\nuniversity who have similar names"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure your email only goes to the people who need to read it. Remember that if you\nreply to all, then everyone will get your email"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you don’t want other recipients to see who else you’ve sent the email to, use the ‘bcc’\nfield"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "This sounds obvious, but don't forget to attach attachments! A word of advice – attach the\nfile you want to send before you start writing. That way, you can't forget to attach it!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "DON’T USE CAPITAL LETTERS! If you write in this way, you are basically shouting at\nyour reader"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Short emails can sometimes sound rude, so try to make them polite and friendly"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Long emails can be quite off-putting, so consider putting extra information in an\nattachment, which the reader can read later"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Proofread before you send. If you make mistakes in your email, people will think you also\nmake mistakes in your work. So always check everything carefully"
                                     }
                                 ]
                             }
@@ -68,54 +110,179 @@
                 ]
             },
             {
-                "name": "Chapter 1",
-                "sections": []
+                "name": "Starting and finishing phrases",
+                "sections": [
+                    {
+                        "subtitle": "Starting and finishing phrases",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Look at the table for some suggestions on how you might start or finish an email.  The\nphrases in red aren't really suitable for addressing academic staff.  You should also avoid the\nvery formal phrase."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/aims-table.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "We've got starting and ending phrases, separated into formal and informal.  Your tutor\nwould probably be happy with 'hi' as a greeting, or 'dear' is also a good one to use.  Avoid the\nphrases in red, as they are very informal and not really suitable for addressing a member of\nstaff.  Remember as well that you may be emailing someone you're familiar with, but that\nperson might forward it to someone else, so it's probably better to be a little more formal\nthan you are with your friends.  'Dear Sir or Madam' is probably not necessary though."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Try the quick quiz on the Microsoft form below",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "The quiz to go here >>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    }
+                ]
             },
             {
-                "name": "Chapter 2",
-                "sections": []
+                "name": "References",
+                "sections": [
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "Writing: English for emails [accessed 31 March 2016]",
+                                "link": "http://learnenglish.britishcouncil.org/en/english-emails?utm_source=LEfacebook&utm_medium=social&utm_campaign=emailenglish",
+                                "authors": [
+                                    {
+                                        "name": "British Council (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Writing Business emails [accessed 14 June 2017]",
+                                "link": "http://www.plainenglish.co.uk/files/email.html",
+                                "authors": [
+                                    {
+                                        "name": "Plain English Campaign (2017)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
     {
-        "name": "Template 2",
+        "name": "Time Management",
         "chapters": [
             {
                 "name": "Introduction",
                 "sections": [
                     {
-                        "subtitle": "Introduction",
+                        "subtitle": "Aims",
                         "space_after": true,
-                        "components": [
-                            {
-                                "type": "text-paragraph",
-                                "links": [],
-                                "text": "Simple paragraph component to explain the purpose of this block."
-                            }
-                        ]
-                    },
-                    {
-                        "subtitle": "Learning Outcomes",
-                        "space_after": false,
                         "components": [
                             {
                                 "type": "list-text",
                                 "list_elements": [
                                     {
                                         "links": [],
-                                        "text": "List component for presenting the learning outcomes for this block"
+                                        "text": "Reflect on how you use your time"
                                     },
                                     {
                                         "links": [],
-                                        "text": "in"
+                                        "text": "Identify effective time management strategies"
                                     },
                                     {
                                         "links": [],
-                                        "text": "list"
+                                        "text": "Apply time management techniques"
                                     },
                                     {
                                         "links": [],
-                                        "text": "form"
+                                        "text": "Consider time management in relation to employability"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Discussion/thinking",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Reflection: how do you currently use your time vs. how you want to use it",
+                                "text": "Think about these things.  Do you…"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "feel in control of your time?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "keep track of everything you need to do?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "realise where your time goes?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "know how to manage distractions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "use time management strategies effectively?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "have time for yourself?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Complete the form below with your thoughts.",
+                                "text": "Form Needs to go here >>>>>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Why does it matter?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "It’s not only about how much time you spend studying, but using that time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You’re more likely to achieve well if you spend enough time studying and use that time\nwell"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You feel more confident and in control when your time is organised"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Using time well means you have more choice what to do with the time saved"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It prepares you for the workplace"
                                     }
                                 ]
                             }
@@ -130,6 +297,27 @@
             {
                 "name": "Chapter 2",
                 "sections": []
+            },
+            {
+                "name": "Effective time management",
+                "sections": [
+                    {
+                        "subtitle": "Find out your time requirements",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Look in your module handbook and see how much time it is recommended\nyou spend studying."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You may need more than this if your study background isn't\nstraightforward, or English isn't your first language."
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -181,6 +369,10 @@
             },
             {
                 "name": "Chapter 1",
+                "sections": []
+            },
+            {
+                "name": "A New Chapter",
                 "sections": []
             },
             {
