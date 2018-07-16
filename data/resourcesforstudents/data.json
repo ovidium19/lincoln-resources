@@ -291,14 +291,6 @@
                 ]
             },
             {
-                "name": "Chapter 1",
-                "sections": []
-            },
-            {
-                "name": "Chapter 2",
-                "sections": []
-            },
-            {
                 "name": "Effective time management",
                 "sections": [
                     {
@@ -314,6 +306,684 @@
                                 "type": "text-paragraph",
                                 "links": [],
                                 "text": "You may need more than this if your study background isn't\nstraightforward, or English isn't your first language."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Find out where the time goes",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [
+                                    {
+                                        "portion": "Mindtools website",
+                                        "href": "https://www.mindtools.com/pages/article/newHTE_03.htm"
+                                    }
+                                ],
+                                "text": "Have you ever thought you didn't know where your time went?  Many of us have!<br><br>\nTry keeping a log for a week and see exactly how you spend your time.  It might be\nvery different from what you think.<br><br>\nSee the activity log here: Mindtools website<br><br>\nDo you really need to spend your time in this way?  What things could you change to\nmake more room for studying?<br><br>\nHowever, remember to make time for hobbies, socialising and keeping healthy."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Prioritise",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Decide what is important and urgent, and leave tasks which aren't important or urgent\nuntil later.<br><br>\nDo you really need to do the things that aren't important?"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Make a plan, and stick to it",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Plan exactly when you are going to do what you need to do.<br><br>\nWork backwards from deadlines: what you need to do and how long it will take (e.g.\nearly brainstorming, research methods, searching for information, organising &\nselecting information, drafts, checking, hand-in).<br><br>\nPut your plan somewhere you can see it or will look at it regularly.<br><br>\nIf your plan isn't working - change it!  Don't try to stick to something that doesn't work\nfor you."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Manage Distractions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What distracts you?<br><br>\nHow can you stop this?<br><br>\nTry this app: Forest App"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Applying time management techniques",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "links": []
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Match tasks to the time you have available"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use blocks of time, e.g. 30 mins"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Mix things up: try time blocks of different lengths, and change tasks frequently if\nyou get bored easily"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Plan efficient breaks: longer breaks, micro-breaks, find out what works for you, but\ndon't work for hours on end without a break"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Set early deadlines before hand-in date to allow for last minute alterations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Keep a track of time by using a timer, for example"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make use of available support, e.g. library"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Organise your stuff: manage your files and your space, label things clearly"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Beware of distractions online: monitor how long you spend"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Set times for browsing online as it can easily take up too much time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Allow time for others to respond to you - don't expect tutors or fellow students to\nrespond straight away - they may be busy too!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Time-saving strategies",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What strategies do you have for saving time?<br><br>\nThink or share your ideas.<br><br>\nSome things you could try..."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Note-writing: write directly onto laptop if you prefer, using key words"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Copying files: keep them somewhere they can be accessed from anywhere"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make the most of spare moments, e.g., listening to a podcast while travelling"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Looking for notes: label them clearly with large headings so you can find them\neasily"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reading: use techniques for faster reading (see Reading Strategies presentation),\nand select and read only what is relevant"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Writing references: keep a full record so you don’t have to look them up again (or\nuse an electronic system)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Thinking: capture ideas as you have them, e.g. in a notebook or make a recording\non your phone"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Organising: don’t note same information twice, use highlighting to group\ninformation, keep information in the same place"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Avoid duplicating effort: where permitted (e.g. collaborative tasks), share the tasks\nso you’re not doing the same things"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Managing procrastination and distraction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It's easy to put off studying and get distracted.  What do you think might motivate you\nto study and stay on task?<br><Br>\nThink about/discuss your ideas, then have a look at the ideas below."
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/study_v2.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Employability and time management",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Prospective employers will often ask questions relating to time management in a job\ninterview.  Some typical questions could be:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Describe a situation in which you had to work under pressure."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How do you balance your time between your studies and your spare time?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You are sat on reception, answering the telephone when a visitor arrives at the\noffice and your manager hands you a note to see them straightaway. How do you\nrespond?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Tell me about a time when you had multiple deadlines to meet; how did you cope\nwith this situation?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(University of Manchester Careers Service, 2016)<br><br>\nIn order to answer the questions, you could use one of the following acronyms:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Context – Say who, when, what, where, how and why this situation was."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Action – Say specifically what you did and how you demonstrated that competence."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Result – Say something specific or quantifiable, a learning point or feedback from\nothers."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Alternative: STAR (Situation, Task, Action, Result)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(University of Manchester Careers Service, 2016)<br><br>\nWatch the video below.  What time management tips are given?<br><br>\n\nTIME MANAGEMENT TIPS VIDEO >>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References and Further Study",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook (4th ed.)",
+                                "publisher": "Cottrell, S. (2013)",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Mindtools website",
+                                "link": "https://www.mindtools.com/pages/main/newMN_HTE.htm"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "University of Manchester Careers Service",
+                                "link": "http://www.careers.manchester.ac.uk/experience/skills/timemanagement/"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Goals and Action Planning",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Identify your strengths and weaknesses.<br><br>\nSMART targets – learn what they are and identify whether examples are SMART.<br><br>\nSet your goals."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Skills: strengths and weaknesses",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Skills: strengths and weaknesses"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Think about the skills you have and make a note of them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There are probably more than you think!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You also develop skills in your personal life, e.g. comparing different opinions and\ndecision making"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Make a list of your current skills/qualities"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "People skills: understanding, being sociable, helping others, speaking clearly, leadership,\ngiving feedback"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Activities: making decisions, being creative, setting priorities, ICT skills, problem solving,\nlanguages, numbers"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Personal: managing self, learning from mistakes, staying calm, being assertive,\ndetermination"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Cottrell, 2015)"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What do you need to improve"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Below there are lists of academic skills"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write down the ones you think are a priority for you to develop:"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Academic Skills",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Organising myself for study"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Using study time well"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Thinking creatively"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Solving problems"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reading for academic purposes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Searching for information for assignments"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Making and using notes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Making good use of lectures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Memory skills"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Preparing for exams/taking exams"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evaluating my work & using feedback"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contributing to group work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Presenting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Managing writing tasks"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Using academic style in writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Writing reports and dissertations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Undertaking a research project"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Avoiding plagiarism"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Citing sources and writing references"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Thinking critically and analytically"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evaluating arguments"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "You can record your thoughts on the form below.",
+                                "text": "SKILLS FORM >>>>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "SMART targets",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "SMART targets"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Targets need to be clear and achievable.\nWe need to know when we have completed them.\nVague targets like: “I need to study more” are not useful.<br><br>\nHow much is “more”? How will you know you have done more? When will you start?.\nTo make this target useful, we need to identify how much is “more”, e.g. 2 hours per day.<br><br>\nSo a more reasonable target might be: “I will study for 2 hours per day starting from today\nuntil my exams”."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What is SMART ?"
+                            },
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Specific"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Measurable"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Achievable"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Realistic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Time-related"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/smart_pics.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Example",
+                                "text": "“I will complete my essay introduction (200 words) by 9p.m. this evening”"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Specific: the introduction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Measurable: I can count the words"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Achievable: I’ve already planned the content so I should have the knowledge to complete\nthe introduction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Realistic: It is not too difficult to write 200 words in one evening"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Time-related: by 9p.m."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Flexibility"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "You need to allow some flexibility in the targets"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "For example, if you get interrupted and don’t finish a task, extend the ‘deadline’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Monitor targets regularly to see if they are working"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If not, change them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Perhaps you were being unrealistic"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Are these targets SMART?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Improve my grades this term"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read more"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write a 250-300 word introduction by 3p.m. today (to be handed in at 6p.m. in 2 days’\ntime)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Write a 1000 word report within the next 24 hours"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Go and see my Personal Tutor"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Record your answers on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Identify your targets"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Look back at the skills you wrote down that you wanted to improve.\nHow are you going to improve them?\nWhat are you going to do and when?\nHow will you know when you have improved?<br><br>\nIdentify at least 2 targets you would like to achieve this term. \nAre they SMART?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Action Plan"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Create an action plan like the one below, write down your goals and how you are going to\nachieve them.<br><br>\n<b>Action plan</b>"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/actionplan_form.png"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Who might be able to help?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What will you need to do?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Remember to keep them SMART – identify small stages rather than overall aims"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Skills for Success: Personal Development and Employability, 3rd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2015)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Study Skills for Business and Management Students",
+                                "publisher": "Harlow: Pearson Education Ltd",
+                                "authors": [
+                                    {
+                                        "name": "Ramsay, P., Maier, P. and Price, G. (2010)"
+                                    }
+                                ]
                             }
                         ]
                     }
