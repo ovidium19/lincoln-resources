@@ -988,6 +988,947 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Using Feedback",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Become aware of different types of feedback"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify the purpose & importance of feedback"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summative and formative assessment"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Understand and apply the concept of ‘feedforward’: use it to inform your goal setting"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Introduction",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What do you think gets good or poor marks?",
+                                "text": "What causes you to get low marks?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Weak structures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not enough research, thought or reflection"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Mainly descriptive rather than analytical"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Possible comments from lecturers:<br><br>\n“You have just paraphrased some sources without considering the importance of the issue.”<br><br>\n“You have written everything you know without any logical order.”<br><br>\n“You haven’t answered the question.”"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "And what gives you better marks?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Meets the criteria"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Follows guidelines, e.g. referencing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Understands key issues"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Answers the question (focused)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is well structured and organised"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Demonstrates good background reading from reliable sources"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Has a clear argument and reasoning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Uses data and evidence"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Demonstrates reflection and analysis"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "To gain even higher marks, your work should"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Demonstrate active engagement with arguments around the subject"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be thought-provoking and show some originality"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Demonstrate a deeper understanding of the significance of relevant issues"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Demonstrate synthesis: bring ideas together and show links"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "The Importance of Feedback",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "It's easy to feel upset about low marks, but try to focus instead on what you're going to do to\nimprove.<br><br>\nThe feedback you receive on your assignments should help you to do this.  Responding to\nyour lecturers' comments by improving future work can have a major effect on your\nsubsequent grades."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Different types of feedback",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What different types of feedback do you receive?<br><br>\nThink/discuss and then have a look at the ideas below.<br><br>\nAll are important and could lead to you improving your marks"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Types of Feedback"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Written comments on your assignment cover"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Receiving comments by email"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Opportunity to talk with your lecturer or tutor"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Peer feedback from a classmate"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Your own self-evaluation of your work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Verbal comments in a seminar group"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Written comments throughout your assignment"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summative and formative Assessment",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Summative: usually appears at the end of a module/course or a topic of study.  It counts\ntowards your final marks<br><br>\nFormative: used for developmental purposes during your course.  It doesn’t count\ntowards your final marks<br><br>\nAlthough formative doesn’t count, it’s very useful for feedback for your future assessments<br><br>\nFormative assessment is often referred to as assessment <b>for</b> learning and summative is\nreferred to as assessment <b>of</b> learning"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "'FeedForward'",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Duncan (2007) carried out a survey on student use of feedback.  A range of replies were\nreceived, with some students admitting they didn't read the feedback and just looked at the\ngrade.<br><br>\nHow about you?  What do you do with your feedback?<br><br>\nTry the following:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Change your view: think about the comments as feeding forward into your future work\nrather than looking back on how you did"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t be upset by negative remarks: use them to your advantage"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Set some goals/aims to work towards for future assignments"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "For example, if a lecturer comments: “there is not enough critical analysis”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Turn it into: “next assignment will contain more critical analysis”"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Keep a feedback notebook",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Cottrell (2013) suggests keeping a record of the feedback you've received."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Examine your feedback carefully"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Keep comments in a notebook (or in electronic format) using ‘feedforward’ language\n(i.e., actions); 1 page for each repeated comment:"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/keepafeedbacknotebook.png"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Cottrell, 2013)"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Things you’ve done well"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Lecturers should point out what you’ve done well as well as improvements to be made. <br><br>\nAlso list these and make sure you keep doing them\nE.g., if your lecturer says “good attempt to analyse the theory”, this means you are\nprogressing in your goal to achieve critical writing – keep trying to improve this!"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Practice",
+                                "text": "Have a look at these comments and change them into actions:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "“You haven't paraphrased citations sufficiently”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "\"You haven't answered the question\""
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "“Your work is too descriptive and not critical enough”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "“You have used too many web references”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "“?” or “this doesn’t make sense”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "\"Structure is a little disorganised\""
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Make a note of your suggested actions on the form below.",
+                                "text": "FeedForward Form >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Now have a look at the presentation below for some ideas.",
+                                "text": "Feedforward Presentation >>>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Action Planning",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(See resource Goals and Action Planning for further help with this)"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "You can use your feedback to create some action plans"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify pieces of feedback you've received"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Read through the comments"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Highlight ones which are useful for future work"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Divide them into major and minor issues (e.g.Major issues: not answering the question,\nlack of evidence, poor argument; minor issues: a few spelling mistakes, minor\ngrammatical errors)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Are there any comments you’ve had before?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look out for words like ‘almost’, ‘somewhat’, ‘mostly’ – these indicate further\nimprovement is required"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Number them in order of priority"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify two comments which you think are a priority for you"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You could take some feedback to your Personal Academic Tutor and discuss your goals\nwith them"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/targets2.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "SMART Targets",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Targets need to be clear and achievable"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "We need to know when we have completed them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Vague targets like: “I need to study more” are not useful"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How much is “more”? How will you know you have done more? When will you start?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "To make this target useful, we need to identify how much is “more”, e.g. 2 hours per day"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "So a more reasonable target might be: “I will study for 2 hours per day starting from\ntoday until my exams”."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What is SMART ?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Specific"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Measurable"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Achievable"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Realistic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Time-related"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summary",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Marks alone don’t give you enough indication of your performance"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you understand feedback"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use ‘feedforward’ thinking"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Turn it into an action plan"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You are more likely to succeed if you act on your feedback"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Now write your goals!"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "‘Feed‐forward’: improving students' use of tutors' comments Assessment and Evaluation in Higher Education 32 (3) 271-283",
+                                "authors": [
+                                    {
+                                        "name": "Duncan, N. (2007)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Successful Academic Writing",
+                                "publisher": "Harlow: Pearson Education",
+                                "authors": [
+                                    {
+                                        "name": "Gillett, A., Hammond, A., and Martala, M (2009)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Academic writing 1: Genres",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify different genres of academic writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify the features of the genres"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Match the text to the genre"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Genres of academic writing",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Discussion/thinking:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What genres (different types) of academic writing have you had experience of so far?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>For the purposes of this study, we will not be looking at types of creative writing such as\njournalistic reports, stories, blogs, marketing materials.  The reason behind this is that\nthey are typically less formal than academic writing, and use different conventions\nwhich is beyond the scope of this session.  A journalistic report, for example, would be\nmore like story-telling and probably not use the formal headings found in other types of\nreport.</i><br><br>\nDiscuss/think about it, then have a look at the presentation for some ideas."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Genres of Academic Writing Presentation >>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Essays"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reports"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Case Studies"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Projects"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Dissertations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reviews"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reflective Accounts"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Lab Reports"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Research Proposals"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Literature Reviews"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Abstracts"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Characteristics of essays and reports",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have a look at the characteristics of essays or reports in the following quiz.  Think about\nwhich characteristic is more typical of reports and which is more typical of essays.<br><Br>\n\n<b>Essays v Reports quiz >>>>>>>>>>>>>>>>>>>>>>></b>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Now let's have a look at each genre in turn..."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Essays",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Essays"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "A piece of writing which follows set conventions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Usually follows a particular structure (introduction, main body, conclusion)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Should keep very strictly to the task or question set"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You can explore a topic in detail"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Allows you to express your views"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You should engage in critical debate around the subject"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Essay structure"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Introduction: explain how you interpret question (define if necessary), give a brief outline\nof what you will cover and in what order"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Main body paragraphs: each cover a separate issue, develop the topic, include details,\nevidence, references, link to next paragraph"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Conclusion: summarise argument, main themes; state conclusions, link back to title (no\nnew information)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "References: list all the sources you have cited"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reports",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "What is a report ?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Has a specific purpose – your assignment brief will outline this"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Written for a specific audience"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Often used in the work place"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Well-organised in sections with headings and numbers"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There are different types, e.g. recommendation, feasibility, progress, laboratory, research,\nfinancial"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Typical Structure",
+                                "text": "This varies with the topic and length of the report, but a typical report based on research\ncould be:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Executive summary/abstract (summary of main points)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Background (why research was necessary)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Research methods (how research was conducted)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Findings/results (usually includes graphs and diagrams)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Discussion and conclusions (what the findings indicate, evaluation)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Recommendations (possible action to take)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Appendices (e.g. copy of a questionnaire)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "References"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Case Studies",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Case Studies"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "In-depth study of a single example (e.g. person, company, event, geographical area,\ntechnique)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Factual, based on a real life subject"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Relates to a theoretical framework, and shows how it illustrates or contradicts the theory"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Can be used for problem analysis and to make recommendations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "CAUTION: they are specific instances, so take care if making generalisations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You might use case studies for research, or write your own"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "subtitle": "Structure of a case study",
+                                "links": []
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Introduction (why this study?  What is the situation?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Background reading (previous research & evaluation)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Methodology (how and why you used particular methods, e.g. library research, interviews,\nhistorical documents…)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Results (what you found from each method)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summary (compare and contrast results)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evaluation (in view of the background reading)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Conclusion (summary/generalisation)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Recommendations"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Gillett, Hammond and Martala, 2009, 235)"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Alternative structure"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Background/introduction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Research methods used"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Statement of the problem, issue or focus"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Any action already taken, and/or current action"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Client & others’ responses to actions taken (if any)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evaluation of the interaction taken/being undertaken"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Outstanding issues or problems"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Causes of outstanding issues/problems"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Possible solutions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evaluation of possible solutions"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Cottrell, 2013, 365)"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Dissertations",
+                        "space_after": false,
+                        "components": []
+                    }
+                ]
             }
         ]
     },
