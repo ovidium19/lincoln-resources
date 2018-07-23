@@ -1926,7 +1926,619 @@
                     {
                         "subtitle": "Dissertations",
                         "space_after": false,
-                        "components": []
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "You might complete this longer report in your 3rd year, or if you go on to do a master’s\ndegree"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "They usually involve doing your own research (although this could be secondary research:\nreading and reporting on earlier research)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "They allow you to investigate a specific topic that interests you in detail"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Possible sections – what do you think the order could be?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Appendices"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Introduction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Method"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Acknowledgements"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Results"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Abstract"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Discussion of results"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contents"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Conclusions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Literature review"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contents list of tables/illustrations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Recommendations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "References"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Title"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Bibliography"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have a look at the presentation below for a suggested order.  (Adapted from Cottrell, 2013,\n358)\n\n<p><p> Presentation  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Presentation: Possible structure of a dissertation",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Title"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Aknowledgements"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Abstract"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contents"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Contents list of tables/illustrations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Introduction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Literature Review"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Method"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Results"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Discussion of Results"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Conclusions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Recommendations"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "References"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Bibliography"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Appendices"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "See resource ‘Research for Beginners’ for more information",
+                                "subtitle": "Further information"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Abstracts",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "subtitle": "Abstracts",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "The abstract or executive summary should make sense if it is read alone"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It should tell your reader what they need to know about your study, so that they can\ndecide whether it is relevant"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is really a compact version of your whole study/dissertation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It should be brief: you may be given a word count"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Possible structure of an abstract"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Introduction (why you chose this subject, background/context)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Purpose"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Methods"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Results"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Brief evaluation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Conclusion"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Gillett, Hammond and Martala, 2009, 233)"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Literature reviews",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "subtitle": "Literature reviews",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Could be part of a bigger project, or a complete essay"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Before undertaking any research, you need to know what is already known or not known\naround the subject"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "This will involve reading and selecting relevant sources to review"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You could also review methods that you wish to use"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You should be able to identify a gap in current knowledge, and explain where your\nresearch will fit"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "subtitle": "Possible structure",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Introduction (context, importance of subject)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Background (summary of studies you are including and why you’re including them)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evaluation (critical evaluation of the studies)\nJustification (identification of a gap in"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "knowledge that justifies your research)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Conclusion (summary, how you can attempt to fill the gap with your research)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Gillett, Hammond and Martala, 2009, 226)"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Research proposals",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Before you undertake any research, your tutor will ask to see your research proposal. <br><br>\nIt should outline:",
+                                "subtitle": "Research proposals"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "what you want to study and why"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "what you already know about the subject"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how you will complete your research (the methods)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "how you will use the findings"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "what literature you might use"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Title (brief description of area of study)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Purpose (what do you want to find out?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Justification (why is it important?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Literature review (what has already been written on the subject?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Method (how you will do your research, time-frame)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Dissemination (how will the findings be used? Evaluation of this use)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reading list (references to any sources you might use)"
+                                    }
+                                ],
+                                "subtitle": "Possible structure"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Gillett, Hammond and Martala, 2009, 224)"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reflective Accounts",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "These are more personal than other types of academic writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You can use ‘I’ in this type of writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You could use a reflective cycle (see example on next slide) to help structure your thoughts"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You are expected to go beyond simply describing a situation, by analysing and applying\nthe theory of your subject"
+                                    }
+                                ],
+                                "subtitle": "Reflective accounts"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/gibbs_model.png"
+                            },
+                            {
+                                "type": "image-single"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Good quality reflection…"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "considers within a time frame"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is aware of uncertainties"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "speculates on the consequences of actions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "thinks about and plans for change"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "focuses on one or two events to explore in depth"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "relates to personal development"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Hammond, Gillett and Martala, 2009, 167)<br><br>\nFor further information, see ‘critical reflection’ presentation"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Reviews",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "You could include the following stages:",
+                                "subtitle": "Book/article reviews"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "what is the text about? Who is it aimed at? What is its purpose?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "what has been written before on this topic?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "what is the content of the text? Summarise"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "what are its positive and negative aspects? Compare with other publications"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "what are its design features? e.g., font size, production"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "is it appropriate? Make a recommendation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Gillett, Hammond and Martala, 2009, 232)"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "If you are asked to review a film or other media, you could follow similar stages to the book\nreview, but note the following points:",
+                                "subtitle": "Other reviews"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "you may include details about main characters, music, visual effects or other specific\nfeatures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "summarise the plot but do not give away too much information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "end with a recommendation on who you think it would be suitable for"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Quiz - match the extracts to the genre",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Look at the six extracts.  Then go to the quiz and match to the appropriate genre.",
+                                "subtitle": "Quiz"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>On the other hand, there are disadvantages which should be taken into consideration.\nFirstly, if a student is not able to obtain paid work, this may result in the gap year being a\nvery expensive experience (Denton & Edwards, 2009).  Another consideration is that\nstudents may lose the desire to continue their studies after experiencing work, possibly\nresulting in a lack of focus, forgetting important information and being educationally\nbehind other students (Hartog, 2010).</i>",
+                                "subtitle": "Extract 1"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>I spent hours and hours getting my head round some of the theory last night ready for\ntoday’s lesson.   And I kept thinking, how am I going to be a teacher if I’ve got to teach the\nstudents to get their head round this and I can’t even do that myself?  But it’s strange\nreally because [my mentor] told me that today’s lesson is the best one I’ve done so far.\nAnd then I made the connection.  Because by having to spend so much time struggling to\nlearn something, I ended up in a better position to teach it because I knew the bits that\ncaused difficulty, and I wouldn’t assume any prior knowledge, so I wouldn’t leave anything\nout.  Actually, in terms of planning, I’d thought it would take a lot longer to teach this than\nit did, and I had time at the end of the lesson to go over it and ask questions.</i>",
+                                "subtitle": "Extract 2"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>3.1 Ellipsis<br>\nEllipsis, ‘the deliberate omission of items...recoverable from the immediate\ncontext’ (Thornbury and Slade, 2006, 202) appears not to be present in the conversation.\nPerhaps, as this is an English class, the students are trying hard to create grammatically\n‘correct’ utterances.<br><br>\n3.2 Deixis\n<br>The term ‘deixis’ is derived ‘from the Greek term for ‘finger’ and is used to mean ‘pointing\nwith language’ (Thornbury and Slade, 2006, 203).  Personal deixis is used frequently\nthroughout the conversation, with much use of ‘I’ and ‘you’, indicating that the discussion\ninvolves issues important to the students personally.  There is occasional use of ‘they’ and\n‘their’, which may serve to create distance at that point.</i>",
+                                "subtitle": "Extract 3"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "",
+                                "subtitle": "Extract 4"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Who cohabits?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Why do people cohabit?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Does cohabiting work?"
+                                    }
+                                ],
+                                "subtitle": "Literature Review"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>Participants</b> – College students from a large, southeastern research university in the\nUnited States will be surveyed.  Demographic information will be collected, and the\nwidest possible diversity is sought.  Perceptions about relationships during cohabitation\nwill be assessed using a Likert-type scale; behavioral decisions about cohabitations will\nbe investigated using yes/no questions. Finally, desirability of a partner with various\nprevious cohabitation relationships will be explored using a semantic differential.\nParticipants will not be screened for sexual preference.<br><br>\n\n<b>Procedure</b> – SurveyMonkey © will be used to create and disseminate surveys.  The\nsurvey link will be sent to various student list-servs around campus. Non-college\nstudents will be filtered out of the sample.<br><br>\n\n<b>Survey</b>\n<li>Paper copy is attached</li>\n<li>Survey monkey link:</li>\n<br><br>",
+                                "subtitle": "Method"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Extract 5",
+                                "text": "<i>Consider the design of the wood pencil, a simple design that hasn't really changed,\nconceptually, in about 500 years. And yet, even a cursory review of its history shows that\nthere were significant changes to the materials used, manufacturing methods, and extra\nfeatures (e.g., attached erasers) over time.<br><br>\nWhy did these changes happen?<br><br>\nThe basic discovery behind pencils was the property of graphite - that it was so soft that it\nleft dark marks on pretty much anything you scratched with it.<br><br>\n\nUntil then, the most common writing instrument was a quill and ink, which were quite\ndelicate. Graphite, though “soft,” was much more robust - and erasable! - than quills and\ninks. No one really had a problem with quills till then, because no one knew an alternative\nwas even possible.</li>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Extract 6",
+                                "text": "<i>Day begins with an overview of the nature and process of academic writing and argues\nthat writing is vitally important for students because it helps them to remember, to\nobserve and gather evidence, to think, to communicate and most importantly, to learn. He\ndescribes how an ‘argument’ is generally a central feature in academic writing and how\nbeing critical via analysing, synthesising, applying and evaluating is an essential skill for\ndeveloping a well-reasoned argument based on compelling evidence. He defines the\nacademic writing features that assessors value. He identifies four different types of\nacademic writer – diver, patchwork, grand plan and architect – and asks readers to\nconsider the category into which they fall.</i>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Academic writing: match the extract to the genre QUIZ >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The study skills handbook, 4th edition.",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Successful academic writing",
+                                "publisher": "Harlow: Pearson Education Ltd.",
+                                "authors": [
+                                    {
+                                        "name": "Gillett, A., Hammond, A. and Martala, M. (2009)"
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             }
