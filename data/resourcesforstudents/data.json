@@ -2541,6 +2541,536 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Academic Writing 2: style",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify what constitutes academic style"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Change ‘informal’ expressions for more formal ones"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Thinking/discussion",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Discuss with a partner/think about what makes writing ‘academic’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "For example, what language features would you NOT use in academic writing?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Share/note your ideas on the following form."
+                                    }
+                                ],
+                                "subtitle": "What is Academic Style?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Academic Style Form >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "objective (impartial, unbiased, neutral)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "impersonal (detached, not involving feelings)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "precise (exact, accurate)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "cautious (it is better not to be too certain about your claims)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "succinct (to the point)"
+                                    }
+                                ],
+                                "subtitle": "Academic writing should be…"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Features to avoid",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Have a look at the presentation and see if you identified these features to avoid in academic writing."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Features to avoid in academic writing .......... presentation >>>>>>>>>>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Informal expressions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "‘a lot’, ‘not much’ can be changed for more formal expressions of quantity, depending on\nwhether it is countable or uncountable"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Some examples:"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/examplesofstyles.png"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "‘pros and cons’ – advantages and disadvantages / benefits and drawbacks"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘hang out with’ – spend time with / socialise with"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘trash’ – waste / refuse"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘talk about’ – discuss"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘chat’ – discuss / talk / have a conversation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘says’ – use a reporting verb, e.g. states, argues https://www.adelaide.edu.au/\nwritingcentre/docs/learningguide-verbsforreporting.docx"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘get’ – has many different meanings, so choose another word http://www.thesaurus.com/\nbrowse/get?s=t"
+                                    }
+                                ],
+                                "subtitle": "Other informal expressions to avoid"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Use of 'I'",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "it may be acceptable in some circumstances (reflection for example), and is becoming generally more acceptable (e.g. Tang and John, 1999)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "depends on the subject being studied"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "ask your Tutor"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is better to avoid it if possible – it’s easy to change back to ‘I’ if it’s acceptable but not\nthe other way"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "becomes more acceptable for those ‘higher up’ in academia"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Avoiding personal pronouns",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "use of passives, e.g. ‘we can avoid this by...’ -  ‘this can be avoided by…’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘I’m going to write about…’ – ‘This essay will discuss/argue that…’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Say who, e.g. ‘We can learn better by…’ – ‘Students can learn better by…’"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Short, disconnected sentences",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "May be acceptable once or twice for effect, for example, if you have a section of longer\nsentences and want your reader to pay close attention, it may be beneficial to introduce a\nshort sentence which disrupts the flow of the paragraph."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try to connect sentences using relative clauses, for example:<p>\n  <p>  ‘X states that there are four different learning styles.  These are…’\n   <p> ‘X states that there are four different learning styles, which are…’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "But don’t over-complicate things, or this could be confusing"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Contractions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "These are easy to change"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "e.g. it’s = it is"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "can’t = cannot"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be careful, don’t = do not NOT donot/donnot"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Addressing the reader directly",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Don’t address the reader by use of ‘you’ or giving commands, e.g. ‘Listen to the radio to\nimprove your English’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You can use ‘should’, e.g. ‘Students should listen to the radio to improve their English.’\nOR ‘Listening to the radio could help to improve the English language of students’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You should keep a distance between you and the reader"
+                                    }
+                                ],
+                                "subtitle": "Addressing the reader directly"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Rhetorical questions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "This may be good for presentations, but is not appropriate in an academic essay"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make statements, rather than ask questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "E.g., ‘Do you know what the four learning styles are?’ could be: ‘This essay will outline the\nfour learning styles, which are…’"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Non-specific words and phrases",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "It was stated at the beginning that academic English should be precise"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Phrases like ‘someone’ and ‘etc.’ are vague and should not be used"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘Someone’ could be changed to name who you are talking about, e.g., a named author you\nare citing, or generally ‘experts’, ‘academics’, ‘scientists’, ‘students’, ‘the general public’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do not use etc. or ‘so on’, simply list a number of examples (as above)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Generalisations",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "These are often assumptions, which may be incorrect"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "e.g. ‘Everyone knows’ – maybe not everyone knows.  You could use ‘It is common\nknowledge that…’ OR ‘It is a widely known fact that…’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "‘All over the world’ could be changed to ‘some countries’, ‘the majority of the population’-\nbetter still to state exactly where you mean"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Multi-word verbs",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Multi-word verbs, such as 'turn up' are used frequently in spoken English and written\nEnglish of a less formal nature, but are generally not recommended for academic writing.\nMost have a one-part verb equivalent: for example, 'turn up' could be 'arrive'.<br><br>\nComplete the quiz below, replacing the multi-word verb with a one-word verb of the same\nmeaning.<br><br>\nMulti-word verb Quiz >>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Non-literal language",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "text": "This can be effective in some styles of writing, but should be avoided in academic essays\nHave a look at the following quiz and suggest ways of changing the non-literal language",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "This can be effective in some styles of writing, but should be avoided in academic essays"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Have a look at the following quiz and suggest ways of changing the non-literal language"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Non-literal language Quiz >>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Exclamation marks/unnecessary capitalisation",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "DON’T DO IT! (How many rules have I broken there?)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Capitals should only be used when necessary, for example abbreviations (the UK)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you use it to make a point, it can appear to the reader as if you are shouting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Exclamation marks should never be used (unless in a direct quotation)"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Practice",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "",
+                                "text": "<b>The following sentences were taken from student essays I have marked.  There\nis at least one problem with each of them in terms of academic style.  Change\nthe sentences to be more academic.  Note your suggestions on the form below.\nThere are several different possibilities.</b>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Let me give you some examples."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "People have got to think about what they do with their trash."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Lots of parents would like their son or daughter to attend a UK university."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "There are pros and cons to this issue."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "I’m going to discuss the gender gap in pay."
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What’s driving this boom in gaming?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t go out on your own at night."
+                                    }
+                                ],
+                                "links": [],
+                                "text": "<ol>Let me give you some examples.</ol>\n<ol>People have got to think about what they do with their trash.</ol>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Non-literal language form >>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have a listen to the audio file for some suggestions. If you prefer to read, you can read the\ntranscript on the presentation below.",
+                                "subtitle": "Suggested answers"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Audio >>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Recording Transcript",
+                        "space_after": false,
+                        "components": []
+                    },
+                    {
+                        "subtitle": "Remember",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "These are general guidelines about academic style and may differ according to subject"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Find out the style requirements for your particular subject area"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If in doubt, check with your tutor"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Act on feedback given to you from previous writing"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "The ‘I’ in identity: exploring writer identity in student academic writing through the first person pronoun. English for Specific Purposes 18 S23- S39 available at http://ac.els-cdn.com/S0889490699000095/1-s2.0-S0889490699000095- main.pdf? _tid=5c1ca694-4aaf-11e7-8d62-00000aacb361&acdnat=1496750448_a1411ded3ee3043a df225353f94ec35d [accessed 6 June 2017]",
+                                "authors": [
+                                    {
+                                        "name": "References"
+                                    },
+                                    {
+                                        "name": "Tang, R. and John, S. (1999)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
