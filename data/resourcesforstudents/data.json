@@ -3071,6 +3071,332 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Active Listening",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify how to make the most of lectures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Look at different ways of making notes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Apply active listening techniques to the workplace"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Hearing vs. listening",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Hearing is passive - you can hear without really listening and taking in information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Active listening requires engagement and processing of information – it needs effort"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Tiredness, distractions, accents and disinterest all affect us absorbing information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Good listening enables other people to feel at ease, trust the listener and express what\nthey want to communicate more easily"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Lectures and lecturers",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Do you have any problems listening in lectures?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "For what reasons might you not want to attend a lecture?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Where do you usually sit during a lecture?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do you take notes?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do you think lecturers like/dislike about student behaviour?"
+                                    }
+                                ],
+                                "subtitle": "Lectures and lecturers: discussion/thinking"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Record your answers on the form below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Lectures and Lecturers Form >>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Lectures are often large – seminars give you better opportunities to get to know your\nlecturers"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Most students only ask to see lecturers around assignment time"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Your lecturer is an expert – a resource in your subject: the more you spend time with\nthem, the more you learn"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "But remember they are busy!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You need to understand them – sometimes it takes a while to become accustomed to an\naccent"
+                                    }
+                                ],
+                                "subtitle": "Lectures and lecturers"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Not attending appointments"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Arriving unannounced"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not attending lectures/seminars (without a valid reason) then expecting lecturer to give\nextra help"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Talking/not paying attention in lectures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Asking questions they have already answered"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not doing the reading/preparation work"
+                                    }
+                                ],
+                                "subtitle": "Things lecturers dislike"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Politeness (in written and verbal communication)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Showing an interest in the subject by actively listening and responding to questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Doing the homework"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Trying to understand and do your best"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Attending lectures/seminars/tutorials"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Participating in seminars/tutorials"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Making use of help and support offered"
+                                    }
+                                ],
+                                "subtitle": "Things lecturers like"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "(Adapted from Tissington and Orthodoxou, 2014, 57)"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you attend (even if you are too busy, don’t understand, too tired…)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make sure you understand: lecturers have different accents like all of us and this is\nperfectly acceptable.  However, if there are major problems affecting the understanding of\nmost students, you might decide to report this"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Prepare: do the reading, print the slides (reduces notes you need to take)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be prepared to ask questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Make notes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Consider changing where you sit (it does have an impact)"
+                                    }
+                                ],
+                                "subtitle": "Making the most of lectures"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Note making",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Discussion/thinking: your note making"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Do you make notes in lectures?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do you do with them after the lecture?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What kind of notes do you make (e.g. linear, pattern, mind map)?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Record your answers on the following form."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Note-making form >>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Notes templates",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Attached are some example note making templates"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Experiment with them"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try your own"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use what works best for you"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try using different note making techniques – it might add to your interest and help you to\nremember things better"
+                                    }
+                                ],
+                                "subtitle": "Note making templates"
+                            },
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [
+                                            {
+                                                "href": "https://universityoflincoln-my.sharepoint.com/personal/alwilkinson_lincoln_ac_uk/_layouts/15/guestaccess.aspx?docid=1ca98fbf20edf45878c844fb89f0cdd71&authkey=AXbg70iZyDePtqPvGp6cdhA&expiration=2017-09-06T14%3a34%3a51.000Z",
+                                                "portion": "Cornell notes template"
+                                            }
+                                        ],
+                                        "text": "Cornell notes template"
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "portion": "Mind map notes template",
+                                                "href": "https://universityoflincoln-my.sharepoint.com/personal/alwilkinson_lincoln_ac_uk/_layouts/15/guestaccess.aspx?docid=15b7fe72cc3e64312a44c33cdf72db6c1&authkey=AZu_j0_H7qZVK1pAnBiWmPA&expiration=2017-09-06T14%3a35%3a59.000Z"
+                                            }
+                                        ],
+                                        "text": "Mind map notes template"
+                                    },
+                                    {
+                                        "links": [
+                                            {
+                                                "portion": "Tabular notes template",
+                                                "href": "https://universityoflincoln-my.sharepoint.com/personal/alwilkinson_lincoln_ac_uk/_layouts/15/guestaccess.aspx?docid=1c9ab9bc3539648849990697ac44be274&authkey=AQmyWNmU_9O0AzOUcavnFSI&expiration=2017-09-06T14%3a36%3a39.000Z"
+                                            }
+                                        ],
+                                        "text": "Tabular notes template"
+                                    }
+                                ],
+                                "subtitle": "Follow the links below to access templates for the different note-taking systems."
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
