@@ -3393,6 +3393,268 @@
                                     }
                                 ],
                                 "subtitle": "Follow the links below to access templates for the different note-taking systems."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Allows you to capture, re-order and understand information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Allows you to select and remember information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Helps you think for yourself"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Saves you time by reviewing key words"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Helps you to listen actively"
+                                    }
+                                ],
+                                "subtitle": "The benefits of making notes"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Source: lecturer, date, title"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Headings: key sections of the lecture"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Key words: points, examples, illustrations, NOT everything"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Some structure: patterns, numbering, arrows, outcomes"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Mnemonic triggers: cartoons, colour, highlighting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Further reading: people or articles to read"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Connections: how it could be used in your assignment"
+                                    }
+                                ],
+                                "subtitle": "Ideal notes contain…"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Examples"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/examplenotes_2.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>For example, these notes I made are not very attractive or well-organised, so I probably won't bother to read through them again.</i>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "However, I put similar information into a Prezi.  I found it helpful in organising the\ninformation - it meant I had to think about it.  I'm also much more likely to look at it again.\nIt might not be that useful to anyone else (and referencing isn't correct, for example), but I\nfound it valuable!  Look at the link below and see if you could do something similar:"
+                            },
+                            {
+                                "type": "link-website",
+                                "links": [
+                                    {
+                                        "text": "Example of notemaking on Prezi",
+                                        "link": "https://prezi.com/wpckbowdodxr/part-2/"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Problems with linear notes"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Too many notes – you probably never use them again"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you can’t write fast you might miss part of the lecture"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It promotes plagiarism"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Passive recording of information – not thinking"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "All the information looks the same"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Monotonous"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If using this system, just write key points and use headings to structure.  Consider\nalternatives on the next slide…"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Mind maps are good as you are forced to select only key information, organised, visually\nmemorable, creative, interesting"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Prepare: get an overview of the lecture"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Brainstorm: what do you already know about the topic?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Goal set: what key information do you want to take from the lecture?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be active: engage with the lecture, identify key points, listen for answers to your questionsBe active: engage with the lecture, identify key points, listen for answers to your question"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Draft: put the key points down in a rough way, then organise them later"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Review: decide what is important and which you don’t need to keep"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Final key word pattern: add colour, pictures, diagrams to trigger memory"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Revise: review regularly to keep in long term memory"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Do something: talk about the lecture, compare notes, read, write more on topic, pin notes\nto wall…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Play with different ideas"
+                                    }
+                                ],
+                                "subtitle": "Note making tips"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Student resources from Sage"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Prezi (prezi.com) is good for note making as well as presentations – it can help you to\nmake sense of ideas"
+                                    }
+                                ],
+                                "subtitle": "Further resources"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have a look at the video of a student giving active listening tips."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Student active listening tips presentation >>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Listening for the workplace",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Importance of listening\nListening may be more important than speaking at the beginning of your career"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What mistakes do you think people generally make with listening? (Note/discuss your\nideas)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Talking too much"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not asking enough questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Asking too many questions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not demonstrating that you’re listening"
+                                    }
+                                ],
+                                "subtitle": "Importance of listening"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "A valuable skill!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Ask the right questions until you have all the necessary information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Enables you to deliver exactly what the client is asking for"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not doing this leads to making mistakes"
+                                    }
+                                ],
+                                "subtitle": "Asking questions"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/speechbubble.jpg"
                             }
                         ]
                     }
