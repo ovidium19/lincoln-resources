@@ -3655,8 +3655,379 @@
                             {
                                 "type": "image-single",
                                 "src": "/images/speechbubble.jpg"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "maintain eye contact with the other person?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "ask questions to ensure you have understood?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "wait until the other person has stopped talking before thinking about what to say next?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "interrupt the other person because they are speaking for too long? (may not be a good\nidea!)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "summarise what the other person has been saying before they have finished? (may not be\na good idea!)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "think about your facial expressions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "ensure seating/standing arrangement is appropriate?"
+                                    }
+                                ],
+                                "subtitle": "Think: during a conversation, how often do you…"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Firstly, really concentrate on what the other person is saying"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Use body language, e.g. nodding"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Non-word cues, e.g. “a-ha”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t interrupt"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Feedback: “Can I check that I’ve understood you correctly?”, “So, I hear that…”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Clarify details (particularly in a business transaction)"
+                                    }
+                                ],
+                                "subtitle": "How can you show that you are listening?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Is there an ‘underlying message’ to what someone is saying? (e.g. saying “I’m fine” but\nlooking upset, or saying they agree with you but they don't seem too happy about it.)",
+                                "subtitle": "Also, think about…"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Silence: not always awkward"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "gives people space to think, reflect, develop ideas…"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "signals someone has finished speaking"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "gives opportunities for others to contribute"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "can enable non-verbal communication to happen"
+                                    }
+                                ]
                             }
                         ]
+                    },
+                    {
+                        "subtitle": "Quick quiz",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Try the following quick quiz to see how much you've remembered.\n<p>\nQUIZ >>>>>>>>>>>>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summary",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Active listening is an important skill"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Attend your lectures"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try different note making techniques"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think about showing you’re listening in your conversations"
+                                    }
+                                ],
+                                "subtitle": "Summary"
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Essential study skills, 4th ed.",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Burns, T. and Sinfield, S. (2016)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Skills for success: personal development and employability, 3rd ed.",
+                                "publisher": "London: Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2015)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "The business student’s guide to study and employability",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Morgan, P. (2017)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Study skills for business and management",
+                                "publisher": "London: Sage",
+                                "authors": [
+                                    {
+                                        "name": "Tissington, P. and Orthodoxou, C. (2014)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Critical Analysis (1)",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify what critical thinking is"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify characteristics of critical, analytical writing"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Find flaws in an argument"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Typical comments",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Have you ever had any of these comments in your feedback?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "More analysis needed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Less description, more evaluation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Too descriptive"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Descriptive rather than analytical"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "You have used theories but have not evaluated them"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Using higher level skills should lead to higher marks!"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/blooms_taxonomyjpg2.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "What is critical thinking?",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Evaluating evidence and arguments for and against"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Considering an issue carefully"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Considering where the viewpoint leads – what the conclusions are and if they are logical"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Examining in detail"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identifying how arguments relate to each other"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checking for accuracy"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Looking for flaws in reasoning, evidence or conclusions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Comparing the same issue from different authors’ opinions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Explaining why different authors arrived at different conclusions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Being able to argue why one set of opinions is preferable to another"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Looking for hidden assumptions"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Characteristics of critical, analytical writing",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Aim should be to present a case through:\n<p>\n<ol>\nproviding reasons,</ol>\n<ol>relevant evidence,</ol>\n<ol>comparing and evaluating arguments,</ol>\n<ol>evaluating evidence,</ol>\n<ol>assessing conflicting evidence</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Background information and description should be minimal"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Some tips for critical writing",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Be aware of your audience: how will others interpret your message?  How will you\npersuade them?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Be clear: make sure writing is not ambiguous"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Analysis: look at evidence in detailed and critical way, evaluate strengths and weaknesses"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Don’t present too many points: better to have more detail about fewer points, so your\nargument doesn’t get lost"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Logical order: often best to put points that support your own argument first"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Emphasise important or controversial aspects"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Group similar points: points that support one aspect together, complete analysis of one\npoint before moving to another"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Signposting: words and phrases which direct the reader, e.g. however, additionally,\nsubsequently, consequently, initially, moreover…"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Critical v Descriptive writing",
+                        "space_after": false,
+                        "components": []
                     }
                 ]
             }
