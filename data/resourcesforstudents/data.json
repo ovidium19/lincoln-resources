@@ -4027,7 +4027,337 @@
                     {
                         "subtitle": "Critical v Descriptive writing",
                         "space_after": false,
-                        "components": []
+                        "components": [
+                            {
+                                "type": "image-single",
+                                "src": "/images/criticalvdescriptive2.png"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Flaws in an argument",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Confusing cause and effect"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Failing to meet necessary conditions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Attacking the person rather than reasoning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Emotive language"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Misrepresentation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Can be deliberate to mislead, or author may not realise"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Confusing cause and effect"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Because two things are found together doesn’t mean there is a\nlink"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: “The entire family was ill last night.  They all ate fish at\nthe restaurant yesterday.  Therefore, the fish must have been\ncontaminated.”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do you think?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Assuming a link where there is none is a flawed argument (false\ncorrelation)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: In summer sales of ice cream and sandals are\nincreased. This is a correlation but does one cause the other?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Check:\n\n<ol>Are patterns and trends coincidental or are you sure there is a\ndirect link?</ol>\n<ol>Are they linked by a third cause?</ol>"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Not meeting necessary conditions"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Reasons or evidence necessary to support an argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If not, the argument is flawed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "All necessary conditions must be present"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: lottery winner must have valid ticket – but what else is\nnecessary?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Must be necessary AND sufficient"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: Birds have wings.  The item has wings.  Therefore, it is\na bird."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Attacking the person and emotive language"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Argument should take counter-arguments into consideration"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Critically analyse the line of reasoning, not the person"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Sometimes authors use emotive/strong language or subjects to\npersuade and affect your judgement"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "See example on next slide:"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Personal identity cards don’t present any real dangers to human\nrights.  They add to our security, by making it easier for the police\nto track and catch criminals.<p><p>\nOpponents of identity cards are wishy-washy liberals who live in\nleafy areas and haven’t a clue what it is like to live in run-down\nareas where crime is rife.",
+                                "subtitle": "Example: Identity Cards"
+                            },
+                            {
+                                "type": "list-text",
+                                "links": [],
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Presenting options in an unfair way"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Focusing on minor points in an opposing argument and ignoring\nmain reasons"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Restricted options: presenting an argument to look as if there are\nonly 2 possible conclusions, selecting one weak to make the other\nlook preferable"
+                                    }
+                                ],
+                                "subtitle": "Misrepresentation"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Example: how is this argument flawed?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Curfews<p><p>\nJuvenile crime has risen sharply in cities.  Young people are out of control.  There are only\ntwo options in a situation like this.  Either we agree to put up with savage assaults on our\npersons and property, or we place a curfew on all young people after 10 o’clock.<p><p>\nMake a note of your thoughts on the following form."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Critical analysis Form >>>>>>>>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>The writer is presenting two options: put a curfew in place or put\nup with 'savage assaults'.  The second option is obviously one which\npeople will not want, so they are really being forced into choosing\nthe curfew option.  In reality, there are more than only these two\noptions.  We could suggest things such as improved street lighting,\nmore policing, or CCTV cameras.  In giving the reader limited\noptions, the writer isn't considering any other alternatives.<p><p>\nThe writer has also used strong, emotive language to provoke a\nreaction, for example 'savage'.  There is no evidence that it is young\npeople committing the crimes, or that crime is occurring after\n10pm.  These are therefore not valid arguments.</i>",
+                                "subtitle": "Transcript"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Evaluating evidence",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "We need to evaluate any evidence or sources we read.<p><p>\nHow do you think we might do this?<p><p>\nThink/discuss, then have a look at suggestions below."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "PRESENTATION >>>>>>>>>>>>"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Relevant and irrelevant evidence",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>People need to improve their understanding of how language works so that they can use it\nmore effectively.  Research studies (Bloggs, 2003; Bloggs, 2006) show that the study of a\nforeign language improves our understanding of the structure of language, providing a way\nof comparing different language structures.  Therefore, people who only speak one language\nshould be encouraged to study a second language.</i>",
+                                "subtitle": "Read the passage below.  Do you think the evidence supports the conclusion?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<b>What do you think?<p><p>\nWe could conclude from this that the evidence does support the conclusion.<p><p>\nWhat about this one?</b><p><p>\n<i>People need to improve their understanding of how language works so that they can use it\nmore effectively.  Research studies (Bloggs, 2003; Bloggs, 2006) show that many people\ncannot describe the different components of their own language.  A surprising number of\npeople have difficulties remembering the rules even of their mother tongue.  Therefore,\npeople who only speak one language should be encouraged to study a second language.</i>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Evidence might suggest people having difficulties with their own language shouldn’t learn\na second"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "It is relevant, but doesn’t support the argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Further evidence would be needed to support the conclusion"
+                                    }
+                                ],
+                                "subtitle": "Does the evidence support the conclusion?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Be relevant"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Support the conclusion/argument"
+                                    }
+                                ],
+                                "subtitle": "So, evidence needs to"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Ice Age<p><p>\nWinters are getting colder.  Opinion polls show that most people think there is a new Ice\nAge on the way.  Therefore, we need to take measures to ensure that fuel resources are\nmanaged so that nobody is left to suffer from extreme cold during forthcoming winters.",
+                                "subtitle": "What do you think about this text?"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Is the evidence relevant to the conclusion?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Are the reasons given relevant to the conclusion?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Reason ‘winters are getting colder’ is relevant to the conclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Evidence from opinion polls – not facts, so does not support the conclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Stronger evidence is needed"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Browsing: are they relevant and reputable?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Focusing on relevant items: how do these support your line of reasoning?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Selecting and evaluating a small number of sources: weighing the evidence and\narguments; looking for flaws and gaps"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Comparing and contrasting different sources and checking for inconsistencies"
+                                    }
+                                ],
+                                "subtitle": "Ways to evaluate sources"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Activity",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Is the line of reasoning good?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What is the conclusion?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How strong is the evidence?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What are the underlying assumptions?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How well do the reasoning and evidence support the conclusion?"
+                                    }
+                                ],
+                                "subtitle": "Read the passage and answer the questions:"
+                            }
+                        ]
                     }
                 ]
             }
