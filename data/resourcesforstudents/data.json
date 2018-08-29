@@ -4356,6 +4356,642 @@
                                     }
                                 ],
                                 "subtitle": "Read the passage and answer the questions:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Children at Play"
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/childrenatplay.jpg"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Children need to play outdoors and yet it is amazing how few\nchildren get that opportunity today. Although Smith (2004) argues\nthat 48% of children prefer to play inside, Jones (1964) found that\n98% of children in Britain prefer to play outdoors. I spoke to some\nparents in Rochborough who said their children missed out by\nnot being able to play down by the river or roam the countryside\nin safety. Most children are now television addicts, or, worse, are\naddicted to computer games. Everybody knows that this is\ndamaging children educationally, and yet nothing is done about it.<p><p>\nThis is certainly true of Rochborough’s children, and the main\nreason is that they do not have anywhere to play. Hardly anybody\nin Rochborough has a garden. It would be better for their health if\nthey played outdoors, but parents say they won’t let them unless\nsupervised play areas are provided. The parents are worried that\nthey cannot see their children when they are playing. What chance\nis there for the health of citizens in Rochborough if its children do\nnot get to play outdoors, and end up as TV addicts?"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Critical Analysis 1: Children at Play form >>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What is the point?  There doesn't seem to be one"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Weak line of reasoning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Information not ordered logically"
+                                    }
+                                ],
+                                "subtitle": "The line of reasoning (logical progression)"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Not clear"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "“children need to play outdoors” at the beginning is more of a\nconclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Final sentences don’t lead to a conclusion"
+                                    }
+                                ],
+                                "subtitle": "The conclusion"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Weak, with insufficient detail"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How many?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "How representative are they of the area?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Statistics not really analysed"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Dates of evidence very different"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Emotive language: ‘addicts’, ‘golden age’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "No support for children being TV or computer addicts"
+                                    }
+                                ],
+                                "subtitle": "Evidence"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "“Everybody knows”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "“Most children are now television addicts, or, worse, are\naddicted to computer games”"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Is it worse?  Who says?"
+                                    }
+                                ],
+                                "subtitle": "Assumptions"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Poor support for conclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Some reasons, but order not logical"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Some without supporting evidence"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Mixed with irrelevant information such as computer addiction"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Not clear whether argument is made on basis of children’s\nhealth"
+                                    }
+                                ],
+                                "subtitle": "Does the reasoning support the conclusion?"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Summary",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Examines from different angles"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checks the accuracy of something"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checks the order of logic"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Checks the relevance of the data"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Compares different points of view"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Assesses the evidence"
+                                    }
+                                ],
+                                "subtitle": "Summary: critical thinking…"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "References",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "link-reference",
+                                "title": "The Study Skills Handbook, 4th edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2013)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Critical Thinking Skills, 2nd edition",
+                                "publisher": "Basingstoke: Palgrave Macmillan",
+                                "authors": [
+                                    {
+                                        "name": "Cottrell, S. (2011)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "link-reference",
+                                "title": "Study Advice",
+                                "link": "http://www.reading.ac.uk/internal/studyadvice/StudyResources/sta- index.aspx",
+                                "authors": [
+                                    {
+                                        "name": "University of Reading (2016)"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Developing a line of argument",
+                "sections": [
+                    {
+                        "subtitle": "Aims",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Identify what an argument is"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Developing a line of argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Flawed arguments"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "What is an argument?",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Watch the video, but don't take it too seriously!"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "What is an Argument --VIDEO  >>>>>>>>>>>>>>>>>>"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "In an academic paper, it means the way in which you explain and develop your topic."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "a logical structure of your paper in which sometimes contradictory claims are discussed,\nand which enables the reader to follow, through signposting and headings, how you deal\nwith the topic;"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "your critical analysis of existing literature from the viewpoint of your own experience\nand/or research; and"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "the development of your own stance, based on your literature review and your own\nexperience/research."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Within your main line of reasoning/argument, are individual arguments"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "This can be defined as “using reasons to support a point of view, so that known or\nunknown audiences may be persuaded to agree.  An argument may include disagreement,\nbut is more than simply disagreement if it is based on reasons” (Cottrell, 2011, 52)."
+                                    }
+                                ],
+                                "subtitle": "Argument"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Planning",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Try drawing your line of argument on paper to see how logical it looks"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Try putting your main points in a different order to see how it affects the line of argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Plan what will go where"
+                                    }
+                                ],
+                                "subtitle": "Planning"
+                            },
+                            {
+                                "type": "link-website",
+                                "links": [
+                                    {
+                                        "text": "https://upload.wikimedia.org/wikipedia/commons/d/d9/ Argument_Graph_of_the_Videogames_Example.png",
+                                        "link": "https://upload.wikimedia.org/wikipedia/commons/d/d9/ Argument_Graph_of_the_Videogames_Example.png"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image-single",
+                                "src": "/images/planninganargument.png"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "An argument should not be confused with...",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Position: an opinion.  If there are no reasons it is not an argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Agreement: again, not an argument if there are no reasons"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Disagreement: as above – simply to disagree with no reasons is not an argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Description: account of what something is like"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Explanation: why something is the way it is"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Summary: reduced version of longer text"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Activity: argument or not?",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Read the following short texts"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Identify whether they are:\n<ol>Argument (if so, what is the argument?)</ol>\n<ol>Summary</ol>\n<ol>Explanation</ol>\n<ol>Description</ol>"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Record your answers on the form after the texts"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>Recently, Ice Age specialists were excited to find evidence of some cultural links between Ice\nAge people across Europe. On a return visit to Creswell Crags in England, they found images\nof horses, bison and red deer similar to those already found in Germany. There is much\ncontroversy about other figures found on cave walls, which some experts believe to be\nimages of dancing women, whereas others remain unconvinced.</i>",
+                                "subtitle": "Text 1"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>New-born babies may lack the capacity to monitor their own breathing and body\ntemperature during the first three months of life. Babies who sleep alongside their mothers\ncould benefit from learning to regulate their breathing and sleeping, following the rhythm of\nthe parent. These babies wake more frequently than those who sleep alone. Moreover,\nmothers who sleep next to their babies are better able to monitor their child for movement\nduring the night. Consequently, it may be safer for new-born babies to sleep with their\nparents.</i>",
+                                "subtitle": "Text 2"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>Both of the toy mice were the same size and shape so the dog was confused. Although one\nmouse was red and one was blue, Misty was unable to tell which mouse was his toy simply\nby looking. Like other dogs, he needed to sniff them both, using his sense of smell to tell\nthem apart, because he couldn’t discriminate between different colours.</i>",
+                                "subtitle": "Text 3"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "<i>Shakespeare’s Romeo and Juliet is set in Verona in Italy. At the beginning of the play,\nRomeo is pining for another young woman, but quickly falls for Juliet at a ball. Although\ntheir two families are hostile to each other, Romeo and Juliet enlist the services of their\nfriends and a friar to bring about their marriage. Unfortunately, in a tragic turn of events,\nthey each kill themselves, believing the other to be already dead.</i>",
+                                "subtitle": "Text 4"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Developing a line of argument >>>>>>>>>>> QUIZ"
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Developing Paragraphs",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "To construct a well-developed argument..."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Writing needs to be divided into logical paragraphs"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Each paragraph should have a central topic idea"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Each paragraph should have a topic sentence to set the theme of the paragraph"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The paragraph should develop the theme (add information, explanation, examples,\nsupport)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "The theme of one paragraph should follow from the previous one"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Each paragraph should contribute to your overall argument - if it doesn't, should it really\nbe there?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Topic sentences"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "The consequences of not moderating the intake of fast food are\nrather alarming.",
+                                "subtitle": "Example topic sentence:"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "What are the consequences?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Why are they alarming?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Provide sources"
+                                    }
+                                ],
+                                "subtitle": "The paragraph will then develop:"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "So everything within the paragraph relates to the topic sentence."
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Conclusions",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Summary of main ideas"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Any recommendations you might want to make"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Final thoughts/deductions from your argument"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "NO new information"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Return to thesis statement"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Confirmation that you have achieved the purpose of the text"
+                                    }
+                                ],
+                                "subtitle": "Conclusions should include..."
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Simply put, in an essay, tell us what you are going to say (intro), say\nit (main body), then tell us what you’ve said (conclusion)!"
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "If you’re not sure of your conclusion, this will weaken your whole\nessay"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Everything you write should be leading to your conclusion"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Often indicated by signpost words such as ‘in conclusion’, ‘in\nsummary’, ‘therefore’, ‘finally’, ‘on this basis’"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If your conclusion is clear, your argument or line of reasoning is\nalso likely to be clear"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Start with your conclusion!"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Think before you begin: what is your position? What are your\narguments? What conclusion are they leading to?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you have your conclusion planned, you can make sure your\npoints are leading to it"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "If you find your position changes as you do more research, you\ncan then re-write it"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "subtitle": "Flaws in an argument",
+                        "space_after": false,
+                        "components": [
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "text": "Some flaws could be..."
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Confusing cause and effect"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Failing to meet necessary conditions"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Attacking the person rather than reasoning"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Emotive language"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Misrepresentation"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Can be deliberate to mislead, or author may not realise"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "list-text",
+                                "list_elements": [
+                                    {
+                                        "links": [],
+                                        "text": "Because two things are found together doesn’t necessarily mean\nthere is a link"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: “Antony and his group of friends were all ill last night.\nThey all spent the weekend away together.  Therefore, they must\nhave contracted a virus from the place where they stayed.\""
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "What do you think?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Assuming a link where there is none is a flawed argument (false\ncorrelation)"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Example: In winter sales of warm clothes and household heaters\nare increased. This is a correlation but does one cause the other?"
+                                    },
+                                    {
+                                        "links": [],
+                                        "text": "Check:\n<ol>Are patterns and trends coincidental or are you sure there is a\ndirect link?</ol>\n<ol>Are they linked by a third cause (in this case colder weather)?</ol>"
+                                    }
+                                ],
+                                "subtitle": "Confusing cause and effect"
+                            },
+                            {
+                                "type": "text-paragraph",
+                                "links": [],
+                                "subtitle": "Not meeting necessary conditions"
                             }
                         ]
                     }
